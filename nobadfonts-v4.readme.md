@@ -1,13 +1,6 @@
 <div align="center">
-
-```
-███╗   ██╗ ██████╗ ██████╗  █████╗ ██████╗ ███████╗ ██████╗ ███╗   ██╗████████╗███████╗
-████╗  ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝
-██╔██╗ ██║██║   ██║██████╔╝███████║██║  ██║█████╗  ██║   ██║██╔██╗ ██║   ██║   ███████╗
-██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║  ██║██╔══╝  ██║   ██║██║╚██╗██║   ██║   ╚════██║
-██║ ╚████║╚██████╔╝██████╔╝██║  ██║██████╔╝██║     ╚██████╔╝██║ ╚████║   ██║   ███████║
-╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝
-```
+         
+![Banner](https://www.nobadfonts.in/banner/banner.png)
 
 ### *"Because Comic Sans deserves to stay in 2003."*
 
@@ -212,19 +205,43 @@ Enforced at the database level via **Supabase Row Level Security (RLS)** — not
 
 **🏠 Landing Page**
 
-![Landing Page](https://placehold.co/900x480/0f0f0f/ffffff?text=NoBadFonts+—+Landing+Page "Hero section with animated typography showcase")
+![Landing Page](https://www.nobadfonts.in/Mockups/IpadAir/landing.png "Hero section with animated typography showcase")
 
 **🔤 Font Catalog**
 
-![Font Catalog](https://placehold.co/900x480/111111/ffffff?text=Curated+Font+Catalog "Browse and filter the curated font library")
+![Font Catalog](https://www.nobadfonts.in/Mockups/IpadAir/catalog.png "Browse and filter the curated font library")
 
-**🔬 Context-Aware Type Tester**
+**🔤 Font Details**
 
-![Type Tester](https://placehold.co/900x480/1a1a2e/ffffff?text=Interactive+Type+Tester "Preview fonts in UI, editorial, and code contexts")
+![Font Details](https://www.nobadfonts.in/Mockups/IpadAir/font.png "Font details page with all the information about the font")
 
-**📱 Mobile View (Capacitor)**
+**🔬 Font Pairing**
 
-![Mobile](https://placehold.co/400x700/0f0f0f/ffffff?text=Native+Mobile+App "Android and iOS — same codebase, full native feel")
+![Font Pairing](https://www.nobadfonts.in/Mockups/IpadAir/pairing.png "Preview and choose fonts to pair in UI, editorial, and code contexts")
+
+**🔬 NoBadFonts-cli**
+
+![NoBadFonts-cli](https://www.nobadfonts.in/Mockups/IpadAir/cli.png "CLI tool to add fonts to the platform directly from your terminal")
+
+<h3>📱 Mobile View (Capacitor)</h3>
+
+
+   <tr align="center">
+      <b>🔤 Font Catalog</b><br/>|
+      <img src="https://www.nobadfonts.in/Mockups/Iphone14ProMax/catalog.png" width="300" />
+    </tr>
+    <tr align="center">
+      <b>🔤 Font Details</b><br/>
+      <img src="https://www.nobadfonts.in/Mockups/Iphone14ProMax/font.png" width="300" />
+    </tr>
+    <tr align="center">
+      <b>🔬 Font Pairing</b><br/>
+      <img src="https://www.nobadfonts.in/Mockups/Iphone14ProMax/pairing.png" width="300" />
+    </tr>
+    <tr align="center">
+      <b>🔬 NoBadFonts-cli</b><br/>
+      <img src="https://www.nobadfonts.in/Mockups/Iphone14ProMax/cli.png" width="300" />
+    </tr>
 
 ---
 
@@ -681,4 +698,16 @@ Built with 🖤 by [Bismay](https://github.com/Bismay-exe)
 [![Visit the site](https://img.shields.io/badge/Visit-nobadfonts.in-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://nobadfonts.in)
 [![Star on GitHub](https://img.shields.io/github/stars/Bismay-exe/nobadfonts?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bismay-exe/nobadfonts)
 
+
+
+```
+███╗   ██╗ ██████╗ ██████╗  █████╗ ██████╗ ███████╗ ██████╗ ███╗   ██╗████████╗███████╗
+████╗  ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔════╝
+██╔██╗ ██║██║   ██║██████╔╝███████║██║  ██║█████╗  ██║   ██║██╔██╗ ██║   ██║   ███████╗
+██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║  ██║██╔══╝  ██║   ██║██║╚██╗██║   ██║   ╚════██║
+██║ ╚████║╚██████╔╝██████╔╝██║  ██║██████╔╝██║     ╚██████╔╝██║ ╚████║   ██║   ███████║
+╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝
+```
+
 </div>
+
