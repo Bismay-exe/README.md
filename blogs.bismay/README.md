@@ -1,4 +1,24 @@
+<a id="top"></a>
+
+<!--
+██████╗ ██╗      ██████╗  ██████╗ ███████╗
+██╔══██╗██║     ██╔═══██╗██╔════╝ ██╔════╝
+██████╔╝██║     ██║   ██║██║  ███╗███████╗
+██╔══██╗██║     ██║   ██║██║   ██║╚════██║
+██████╔╝███████╗╚██████╔╝╚██████╔╝███████║
+╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
+
+            WRITE THE STORY.
+          DESIGN THE EXPERIENCE.
+         LET THE READER MAKE IT THEIRS.
+-->
+
 <div align="center">
+
+<img src="https://placehold.co/1800x900/09090B/FFFFFF?text=BLOGS.BISMAY" alt="blogs.bismay" width="100%">
+
+<br />
+<br />
 
 # blogs.bismay
 
@@ -10,33 +30,63 @@
 
 <br />
 
-[Explore the Repository](https://github.com/Bismay-exe/blogs.bismay)
+<a href="https://blogs-bismay.vercel.app/">
+  <img src="https://img.shields.io/badge/ENTER_THE_PLATFORM-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Live Website">
+</a>
+&nbsp;
+<a href="https://github.com/Bismay-exe/blogs.bismay">
+  <img src="https://img.shields.io/badge/EXPLORE_THE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+</a>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/github/stars/Bismay-exe/blogs.bismay?style=flat-square&label=stars&color=F59E0B&labelColor=18181B" alt="Stars">
+<img src="https://img.shields.io/github/forks/Bismay-exe/blogs.bismay?style=flat-square&label=forks&color=8B5CF6&labelColor=18181B" alt="Forks">
+<img src="https://img.shields.io/github/issues/Bismay-exe/blogs.bismay?style=flat-square&label=issues&color=EF4444&labelColor=18181B" alt="Issues">
+<img src="https://img.shields.io/github/issues-pr/Bismay-exe/blogs.bismay?style=flat-square&label=pull%20requests&color=22C55E&labelColor=18181B" alt="Pull Requests">
+<img src="https://img.shields.io/github/contributors/Bismay-exe/blogs.bismay?style=flat-square&label=contributors&color=06B6D4&labelColor=18181B" alt="Contributors">
 
 </div>
 
+<br />
+
 ---
 
-<p align="center">
-<img src="https://placehold.co/1800x1000/09090B/FFFFFF?text=BLOGS.BISMAY" alt="blogs.bismay homepage" width="100%">
-</p>
+<div align="center">
 
-<p align="center"><em>Homepage — Screenshot placeholder</em></p>
+### `THIS README HAS TWO SIDES.`
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   SIDE A  →  THE CREATOR                            ║
+║   SIDE B  →  THE READER                             ║
+║                                                      ║
+║              THE ARTICLE                             ║
+║                   ↓                                  ║
+║          EVERYTHING CONNECTS HERE                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
 # `01 / WHAT IS THIS?`
 
-**blogs.bismay** is not designed as a traditional blog.
+## Not just a blog.
 
-It's a publishing environment with two sides.
+**blogs.bismay** is a publishing environment with two perspectives.
 
 ```text
-THE CREATOR                     THE READER
+THE CREATOR                         THE READER
 
-Write                           Read
-Structure                       Customize
-Publish                         Personalize
-Optimize                        Explore
+WRITE                               READ
+STRUCTURE                           CUSTOMIZE
+PUBLISH                             PERSONALIZE
+OPTIMIZE                            EXPLORE
 ```
 
 On one side:
@@ -45,7 +95,7 @@ A content workspace for creating and managing articles.
 
 On the other:
 
-A **Reader Studio** that lets the reading experience change around the content.
+A **Reader Studio** that lets the reading environment change around the same content.
 
 Between them:
 
@@ -67,7 +117,20 @@ CUSTOMIZE
 
 The article stays at the center.
 
-Everything around it is configurable.
+**Everything around it is configurable.**
+
+> The creator controls the story.
+> The reader controls the experience.
+
+---
+
+# `SIDE A / THE CREATOR`
+
+<div align="center">
+
+## `IDEAS NEED A PLACE TO BECOME SOMETHING.`
+
+</div>
 
 ---
 
@@ -78,14 +141,6 @@ Everything around it is configurable.
 The editor is built around more than a title and a textarea.
 
 An article contains structured information for:
-
-* Content
-* Media
-* Classification
-* Navigation
-* SEO
-* Publishing
-* Article settings
 
 ```text
 ARTICLE
@@ -99,6 +154,16 @@ ARTICLE
 └── SETTINGS
 ```
 
+That means the writing environment can manage:
+
+* Content
+* Media
+* Classification
+* Navigation
+* SEO
+* Publishing
+* Article settings
+
 <p align="center">
 <img src="https://placehold.co/1800x1000/111827/FFFFFF?text=CONTENT+STUDIO" alt="Content Studio" width="100%">
 </p>
@@ -107,27 +172,39 @@ ARTICLE
 
 # `03 / WRITE YOUR WAY`
 
-The editor supports three content formats:
+## One article. Three languages.
 
 ```text
 MARKDOWN
-   +
+    +
 MDX
-   +
+    +
 HTML
 ```
 
 Choose the format that matches the article.
 
-Markdown for structured writing.
+### `MARKDOWN`
 
-MDX when content needs a more flexible format.
+For structured writing.
 
-HTML when direct markup is required.
+### `MDX`
+
+When the content needs a more flexible format.
+
+### `HTML`
+
+When direct markup is required.
 
 <p align="center">
 <img src="https://placehold.co/1800x900/172554/FFFFFF?text=CONTENT+FORMAT+SELECTOR" alt="Content Format Selector" width="100%">
 </p>
+
+<div align="center">
+
+`THE FORMAT SHOULD FOLLOW THE IDEA — NOT THE OTHER WAY AROUND.`
+
+</div>
 
 ---
 
@@ -136,7 +213,7 @@ HTML when direct markup is required.
 The editor has two modes.
 
 ```text
-EDIT  ←→  PREVIEW
+EDIT   ←────────→   PREVIEW
 ```
 
 Write the article.
@@ -147,11 +224,13 @@ See how the content renders.
 
 The editor also tracks:
 
-* Word count
-* Estimated reading time
-* Current publishing status
-* Content format
-* Save state
+```text
+✓ WORD COUNT
+✓ ESTIMATED READING TIME
+✓ CURRENT PUBLISHING STATUS
+✓ CONTENT FORMAT
+✓ SAVE STATE
+```
 
 <p align="center">
 <img src="https://placehold.co/1800x1000/09090B/FFFFFF?text=EDITOR+%E2%86%94+LIVE+PREVIEW" alt="Editor and Preview" width="100%">
@@ -161,7 +240,7 @@ The editor also tracks:
 
 # `05 / THE ARTICLE STARTS HERE`
 
-Every article can include:
+Every article begins with its core identity.
 
 ### `TITLE`
 
@@ -190,6 +269,8 @@ Calculated from the article's word count.
 ---
 
 # `06 / MARKDOWN, VISUALLY`
+
+## Structured writing without losing momentum.
 
 The editor provides formatting controls and a live article preview.
 
@@ -259,10 +340,11 @@ The content system is designed for structured writing, including the formats dem
 
 ## `CODE`
 
-```markdown
+````markdown
 ```typescript
 const article = "something worth reading";
 ```
+````
 
 <p align="center">
 <img src="https://placehold.co/1800x950/09090B/FFFFFF?text=MARKDOWN+%E2%80%94+CODE+BLOCKS" alt="Markdown Code Blocks" width="100%">
@@ -288,24 +370,35 @@ Article content can include image references, while the article itself can also 
 <img src="https://placehold.co/1800x950/111827/FFFFFF?text=MARKDOWN+%E2%80%94+IMAGES" alt="Markdown Images" width="100%">
 </p>
 
+<div align="center">
+
+### `WORDS ARE THE FOUNDATION. FORMAT GIVES THEM SHAPE.`
+
+</div>
+
 ---
 
 # `07 / THE HERO`
+
+## Give the article an entrance.
 
 An article can have a dedicated banner image.
 
 The banner editor supports:
 
-- Image URL
-- Alternative text
-- Optional width
-- Optional height
-- Quick banner presets
-- Banner preview
-- Editing
-- Removing the banner
+```text
+IMAGE URL
+ALTERNATIVE TEXT
+OPTIONAL WIDTH
+OPTIONAL HEIGHT
 
-The selected banner can also be used to populate the article's Open Graph image.
+QUICK BANNER PRESETS
+BANNER PREVIEW
+EDITING
+REMOVING
+```
+
+The selected banner can also be used to populate the article's **Open Graph image**.
 
 <p align="center">
 <img src="https://placehold.co/1800x1000/1E293B/FFFFFF?text=ARTICLE+HERO+BANNER" alt="Article Hero Banner" width="100%">
@@ -323,7 +416,7 @@ ARTICLE
    ├── CATEGORY
    │
    └── TAGS
-````
+```
 
 Tags can be selected from suggested development topics or created as custom tags.
 
@@ -335,9 +428,9 @@ Tags can be selected from suggested development topics or created as custom tags
 
 # `09 / CONNECT THE ARTICLES`
 
-Articles also include navigation metadata.
+A good article doesn't always live alone.
 
-This supports:
+Articles also include navigation metadata for:
 
 * Series ID
 * Series order
@@ -397,6 +490,16 @@ Saved articles are persisted through the project's browser storage layer.
 Not an afterthought.
 
 Each article has its own SEO configuration.
+
+```text
+THE ARTICLE
+     ↓
+SEARCH
+     ↓
+SOCIAL
+     ↓
+CRAWLERS
+```
 
 ---
 
@@ -474,17 +577,17 @@ An article has three publishing states.
 DRAFT
    ↓
 PUBLISHED
+```
 
-or
+Or:
 
+```text
 DRAFT
    ↓
 SCHEDULED
    ↓
 PUBLISHED
 ```
-
-The publishing controls support:
 
 ### `DRAFT`
 
@@ -498,7 +601,7 @@ Make the article live.
 
 Choose a future release time.
 
-When scheduling an article, the editor provides a dedicated date and time picker.
+When scheduling an article, the editor provides a dedicated **date and time picker**.
 
 <p align="center">
 <img src="https://placehold.co/1800x1000/09090B/FFFFFF?text=DRAFT+%E2%86%92+SCHEDULE+%E2%86%92+PUBLISH" alt="Publishing Workflow" width="100%">
@@ -508,7 +611,9 @@ When scheduling an article, the editor provides a dedicated date and time picker
 
 # `17 / FEATURE IT`
 
-Articles can also be marked as:
+Some articles deserve the spotlight.
+
+Articles can be marked as:
 
 ```text
 ★ FEATURED
@@ -522,11 +627,13 @@ Featured status is part of the article's publishing configuration.
 
 ---
 
-# `18 / NOW SWITCH SIDES`
+<div align="center">
 
-Everything until now was about the creator.
+# `SIDE B / THE READER`
 
-Now comes the reader.
+### SAME ARTICLE. DIFFERENT EXPERIENCE.
+
+</div>
 
 ```text
 CREATOR
@@ -538,17 +645,33 @@ ARTICLE
 READER
 ```
 
-The article content remains the same.
+Everything until now was about creating the content.
 
-The reading environment doesn't have to.
+Now comes the environment around it.
+
+The article remains the same.
+
+**The reading experience doesn't have to.**
+
+---
+
+# `18 / NOW SWITCH SIDES`
+
+The creator shapes the article.
+
+The reader shapes the environment.
+
+```text
+THE CONTENT STAYS.
+
+THE EXPERIENCE MOVES.
+```
 
 ---
 
 # `19 / READER STUDIO`
 
 The project includes a dedicated Reader Settings system.
-
-The actual settings categories are:
 
 ```text
 READER STUDIO
@@ -608,9 +731,9 @@ A magazine-style long-form reading experience with spacious typography.
 
 # `21 / APPEARANCE`
 
-Choose how the environment looks.
+## Change the atmosphere.
 
-The appearance settings include:
+Choose how the environment looks.
 
 ### Themes
 
@@ -624,11 +747,11 @@ SYSTEM
 
 The built-in choices include:
 
-* Coral Red
-* Sky Blue
-* Lavender Purple
-* Amber Gold
-* Lime Green
+* 🔴 Coral Red
+* 🔵 Sky Blue
+* 🟣 Lavender Purple
+* 🟡 Amber Gold
+* 🟢 Lime Green
 
 <p align="center">
 <img src="https://placehold.co/1800x950/09090B/FFFFFF?text=APPEARANCE+%E2%80%94+THEME+%26+ACCENT" alt="Appearance Settings" width="100%">
@@ -638,9 +761,16 @@ The built-in choices include:
 
 # `22 / TYPOGRAPHY`
 
-Reading is typography.
+## Reading is typography.
 
-The Reader Studio provides separate controls for titles, headings, body content, and code.
+The Reader Studio provides separate controls for:
+
+```text
+TITLES
+HEADINGS
+BODY CONTENT
+CODE
+```
 
 ---
 
@@ -658,7 +788,7 @@ Text weights range from:
 
 ```text
 300 LIGHT
-   ↓
+    ↓
 900 BLACK
 ```
 
@@ -674,13 +804,13 @@ Choose from:
 * Space Mono
 * DM Mono
 
-The code block settings also include a dedicated font-size control.
+The code block settings also include a dedicated **font-size control**.
 
 ---
 
 ## `READING RHYTHM`
 
-Body typography controls include settings for:
+Body typography controls include:
 
 * Body font
 * Font weight
@@ -696,14 +826,14 @@ Body typography controls include settings for:
 
 # `23 / READING LAYOUT`
 
+## Change the shape of the page.
+
 Control the width of the article column.
 
 ```text
-NARROW     560px
-
-DEFAULT    680px
-
-WIDE       860px
+NARROW      560px
+DEFAULT     680px
+WIDE        860px
 ```
 
 The reader can also toggle:
@@ -771,7 +901,7 @@ Readers can control whether the article displays:
 
 The Reader Studio includes video player preferences.
 
-Two verified player skins are available:
+Two verified player skins are available.
 
 ### `MODERN CONTROLS`
 
@@ -789,16 +919,20 @@ A compact interface focused on essential playback controls.
 
 # `27 / THE SIDEBAR IS YOURS`
 
+## The page doesn't have to stop at the article.
+
 The widget system allows the article sidebar to become configurable.
 
 Widgets can be:
 
-* Enabled
-* Disabled
-* Reordered
-* Configured
-* Reset
-* Previewed live
+```text
+✓ ENABLED
+✓ DISABLED
+✓ REORDERED
+✓ CONFIGURED
+✓ RESET
+✓ PREVIEWED LIVE
+```
 
 <p align="center">
 <img src="https://placehold.co/1800x1000/172554/FFFFFF?text=SIDEBAR+WIDGET+STUDIO" alt="Widget Studio" width="100%">
@@ -850,7 +984,7 @@ A newsletter signup component.
 
 ## `SOCIAL NETWORKS`
 
-A configurable collection of social links, including support for platforms such as:
+A configurable collection of social links, including support for:
 
 * GitHub
 * X / Twitter
@@ -917,6 +1051,8 @@ PREVIEW
 
 # `31 / CONTENT DISCOVERY`
 
+## Write it. Publish it. Let it travel.
+
 The application includes technical infrastructure for discovery.
 
 ### `ROBOTS`
@@ -947,14 +1083,23 @@ DISCOVER
 
 # `32 / UNDER THE HOOD`
 
-## Core
+## The experience is creative. The machinery is deliberate.
+
+### `CORE`
+
+<p>
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
+</p>
 
 * Next.js 16
 * React 19
 * TypeScript
 * Tailwind CSS
 
-## UI
+### `UI`
 
 * Base UI
 * Radix UI
@@ -963,7 +1108,7 @@ DISCOVER
 * Lucide React
 * Iconify
 
-## Motion
+### `MOTION`
 
 * Framer Motion
 * GSAP
@@ -971,7 +1116,7 @@ DISCOVER
 * Lenis
 * Rough Notation
 
-## Rich Content
+### `RICH CONTENT`
 
 * react-tweet
 * react-spotify-embed
@@ -1021,29 +1166,43 @@ blogs.bismay/
 └── package.json
 ```
 
+<div align="center">
+
+```text
+CONTENT
+   ↓
+APPLICATION
+   ↓
+COMPONENTS
+   ↓
+EXPERIENCE
+```
+
+</div>
+
 ---
 
 # `34 / RUN IT`
 
-## Clone
+### `01 — CLONE`
 
 ```bash
 git clone https://github.com/Bismay-exe/blogs.bismay.git
 ```
 
-## Enter the project
+### `02 — ENTER`
 
 ```bash
 cd blogs.bismay
 ```
 
-## Install dependencies
+### `03 — INSTALL`
 
 ```bash
 npm install
 ```
 
-## Start development
+### `04 — START`
 
 ```bash
 npm run dev
@@ -1055,107 +1214,115 @@ Open:
 http://localhost:3000
 ```
 
+<div align="center">
+
+## `YOU'RE IN.`
+
+</div>
+
 ---
 
 # `35 / AVAILABLE COMMANDS`
 
-### Development
-
-```bash
-npm run dev
-```
-
-### Production build
-
-```bash
-npm run build
-```
-
-### Run production
-
-```bash
-npm run start
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
-### Type checking
-
-```bash
-npm run type-check
-```
+| COMMAND              | PURPOSE                        |
+| -------------------- | ------------------------------ |
+| `npm run dev`        | Start development              |
+| `npm run build`      | Create the production build    |
+| `npm run start`      | Run the production application |
+| `npm run lint`       | Run project linting            |
+| `npm run type-check` | Run TypeScript validation      |
 
 ---
 
 # `36 / SCREENSHOT MAP`
 
-This README is intentionally designed as a visual product walkthrough.
+## This README is designed to become a visual product walkthrough.
 
-Replace the placeholders with screenshots for:
+Right now, the experience uses placeholders.
+
+Eventually, replace them with real screenshots.
 
 ```text
-01 — Homepage
+01 — HOMEPAGE
 
-02 — Content Studio
-03 — Format Selector
-04 — Editor / Preview
-05 — Article Fields
+02 — CONTENT STUDIO
+03 — FORMAT SELECTOR
+04 — EDITOR / PREVIEW
+05 — ARTICLE FIELDS
 
-06 — Markdown Headings
-07 — Text Formatting
-08 — Lists
-09 — Blockquotes
-10 — Code
-11 — Tables
-12 — Images
+06 — MARKDOWN HEADINGS
+07 — TEXT FORMATTING
+08 — LISTS
+09 — BLOCKQUOTES
+10 — CODE
+11 — TABLES
+12 — IMAGES
 
-13 — Hero Banner
-14 — Categories & Tags
-15 — Article Navigation
-16 — Draft Protection
+13 — HERO BANNER
+14 — CATEGORIES & TAGS
+15 — ARTICLE NAVIGATION
+16 — DRAFT PROTECTION
 
-17 — Search Metadata
-18 — Open Graph
-19 — Twitter Metadata
-20 — Robots
-21 — Publishing
-22 — Featured Article
+17 — SEARCH METADATA
+18 — OPEN GRAPH
+19 — TWITTER METADATA
+20 — ROBOTS
+21 — PUBLISHING
+22 — FEATURED ARTICLE
 
-23 — Reader Studio
-24 — Reading Presets
-25 — Appearance
-26 — Typography
-27 — Reading Layout
-28 — Article Header Builder
-29 — Article Information
-30 — Video Skins
+23 — READER STUDIO
+24 — READING PRESETS
+25 — APPEARANCE
+26 — TYPOGRAPHY
+27 — READING LAYOUT
+28 — ARTICLE HEADER BUILDER
+29 — ARTICLE INFORMATION
+30 — VIDEO SKINS
 
-31 — Widget Studio
-32 — Author Profile
-33 — Series Navigation
-34 — Subscribe
-35 — Social Links
-36 — Comment Form
-37 — Custom Widgets
-38 — Live Preview
+31 — WIDGET STUDIO
+32 — AUTHOR PROFILE
+33 — SERIES NAVIGATION
+34 — SUBSCRIBE
+35 — SOCIAL LINKS
+36 — COMMENT FORM
+37 — CUSTOM WIDGETS
+38 — LIVE PREVIEW
 
-39 — Content Discovery
-40 — Technology Stack
+39 — CONTENT DISCOVERY
+40 — TECHNOLOGY STACK
 ```
+
+Replace a placeholder such as:
+
+```markdown
+https://placehold.co/1800x1000/...
+```
+
+with your real screenshot path.
+
+For example:
+
+```markdown
+./public/screenshots/content-studio.png
+```
+
+<div align="center">
+
+### `WHEN THE REAL SCREENSHOTS ARRIVE, THIS README BECOMES A PRODUCT TOUR.`
+
+</div>
 
 ---
 
 # `37 / THE IDEA`
 
-The platform is built around a simple principle.
+The platform is built around one simple principle.
 
 ```text
 THE WRITER
 controls the story.
+
+        ×
 
 THE READER
 controls the experience.
@@ -1173,10 +1340,33 @@ Let people read it their way.
 
 # blogs.bismay
 
-### Write the story.
+## Write the story.
 
-### Shape the experience.
+## Shape the experience.
 
-### Let the reader make it theirs.
+## Let the reader make it theirs.
+
+<br />
+
+<img src="https://placehold.co/1800x600/09090B/FFFFFF?text=THE+STORY+DOESN%27T+END+WHEN+YOU+HIT+PUBLISH." alt="Closing banner" width="100%">
+
+<br />
+<br />
+
+<a href="#top">
+
+### ↑ BACK TO THE BEGINNING
+
+</a>
+
+<br />
+
+<sub>Built for writing. Designed for reading. Still evolving.</sub>
 
 </div>
+
+---
+
+## License
+
+No license has currently been specified for this repository.
