@@ -1,1049 +1,787 @@
+<a id="top"></a>
+
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         BLOGS BY BISMAY                              ║
+║                                                                      ║
+║              IDEAS DESERVE BETTER PLACES TO LIVE.                    ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<p align="center">
+  <img
+    src="https://placehold.co/1800x900/050505/F5F5F5/png?text=BLOGS+BY+BISMAY"
+    width="100%"
+    alt="Blogs by Bismay"
+  />
+</p>
+
+<br />
+
+<h1 align="center">Blogs by Bismay</h1>
+
+<p align="center">
+  <strong>A place where writing becomes an experience.</strong>
+</p>
+
+<p align="center">
+  Ideas, code, curiosity, experiments, stories—and everything discovered along the way.
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://blogs-bismay.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_THE_BLOG-F5F5F5?style=for-the-badge&logo=vercel&logoColor=000000" alt="Enter the Blog" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Bismay-exe/blogs.bismay">
+    <img src="https://img.shields.io/badge/EXPLORE_THE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Code" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Bismay-exe/blogs.bismay?style=flat-square&color=F59E0B&labelColor=18181B&label=stars" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/Bismay-exe/blogs.bismay?style=flat-square&color=8B5CF6&labelColor=18181B&label=forks" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/Bismay-exe/blogs.bismay?style=flat-square&color=EF4444&labelColor=18181B&label=issues" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/Bismay-exe/blogs.bismay?style=flat-square&color=22C55E&labelColor=18181B&label=pull%20requests" alt="Pull Requests" />
+  <img src="https://img.shields.io/github/contributors/Bismay-exe/blogs.bismay?style=flat-square&color=06B6D4&labelColor=18181B&label=contributors" alt="Contributors" />
+</p>
+
+<br />
+
 <div align="center">
 
-# blogs.bismay
-
-### Write the story. Shape the experience. Let the reader decide how it feels.
-
-<br />
-
-A modern publishing platform built around **Markdown authoring**, **content management**, **SEO controls**, and a deeply customizable **reading environment**.
-
-<br />
-
-[Explore the Repository](https://github.com/Bismay-exe/blogs.bismay)
+`A modern publishing experience for ideas worth following.`
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 <p align="center">
 
-<img
-src="https://placehold.co/1800x1000/09090B/FFFFFF?text=BLOGS.BISMAY"
-alt="blogs.bismay"
-width="100%"
-/>
+## ↓ BEGIN THE JOURNEY ↓
 
 </p>
 
-<p align="center"><em>Homepage — Screenshot placeholder</em></p>
+<br />
 
----
-
-# `01 / NOT JUST A BLOG`
-
-A blog usually gives you a place to write.
-
-**blogs.bismay** goes further.
-
-It separates the experience into two worlds:
-
-```text
-THE CREATOR                    THE READER
-
-Write                         Read
-Manage                        Customize
-Organize                      Personalize
-Publish                       Explore
-Optimize                      Experience
-```
-
-On one side is a complete content workspace.
-
-On the other is a reader experience designed to be configurable.
-
-Between them:
-
-* Articles
-* Drafts
-* Scheduling
-* Markdown
-* Media
-* Categories
-* Tags
-* Series
-* SEO metadata
-* Open Graph configuration
-* Twitter metadata
-* Reader presets
-* Typography
-* Layout controls
-* Media preferences
-* Widgets
-
-The article is the center of everything.
-
-But how it gets there—and how it gets read—is where the interesting part begins.
-
----
-
-# `02 / THE CONTENT WORKSPACE`
-
-## Where articles live before they become articles.
-
-The project includes a dedicated content management area.
-
-Not just a "New Post" button.
-
-A workspace for tracking content across its lifecycle.
-
-The admin structure includes dedicated areas for:
-
-```text
-ADMIN
-│
-├── POSTS
-├── MEDIA
-├── SERIES
-├── ABOUT
-└── SETTINGS
-```
+# `01 / NOT JUST A PLACE TO POST.`
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x1000/111827/FFFFFF?text=ADMIN+WORKSPACE"
-alt="Admin Workspace"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1800x1000/0A0A0A/777777/png?text=THE+INTERNET+HAS+ENOUGH+PAGES."
+    width="100%"
+    alt="Introduction screenshot"
+  />
 </p>
 
----
+<br />
 
-# `03 / THE BLOG WORKSPACE`
-
-The post management screen tracks articles across multiple states.
+Most blogs follow a familiar pattern.
 
 ```text
-ALL POSTS
-    │
-    ├── PUBLISHED
-    ├── DRAFTS
-    ├── SCHEDULED
-    └── BROWSER SAVED
+WRITE SOMETHING
+       ↓
+PUT IT ON A PAGE
+       ↓
+MOVE ON
 ```
 
-The workspace also supports:
+**Blogs by Bismay takes a different route.**
 
-* Searching articles
-* Filtering by status
-* Filtering by category
-* Grid view
-* List view
-* Editing articles
-* Viewing published articles
-* Changing publication or scheduled dates
-* Exporting articles as JSON
-* Managing browser-saved content
+It treats publishing as more than the final destination of a piece of text.
+
+It's a place where an idea can be written, shaped, connected, and explored—without losing the personality that made it worth writing in the first place.
+
+```text
+AN IDEA
+   │
+   ▼
+BE WRITTEN
+   │
+   ▼
+BE SHAPED
+   │
+   ▼
+BE CONNECTED
+   │
+   ▼
+BE EXPLORED
+```
+
+<br />
+
+> **The writing is the reason you arrive.**
+> **The experience is the reason you keep exploring.**
+
+<br />
+
+---
+
+# `02 / ENTER THE WRITER'S ROOM.`
+
+## Every article starts somewhere quiet.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x1000/172554/FFFFFF?text=BLOG+WORKSPACE"
-alt="Blog Workspace"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1800x1000/111111/777777/png?text=THE+WRITER%27S+ROOM"
+    width="100%"
+    alt="Markdown editor screenshot"
+  />
 </p>
 
----
+<br />
 
-# `04 / THE ARTICLE LIFECYCLE`
+The best writing tools know when to disappear.
 
-An article doesn't simply exist or not exist.
+They don't compete with your thoughts.
 
-It moves.
+They don't turn writing into configuration.
+
+They simply give ideas somewhere to take shape.
+
+The writing experience is built around **Markdown**:
+
+> Simple enough to disappear while you're thinking.
+> Powerful enough to structure almost anything you're trying to say.
 
 ```text
-NEW IDEA
-    ↓
-DRAFT
-    ↓
-SAVED
-    ↓
-SCHEDULED
-    ↓
-PUBLISHED
+THINK
+  ↓
+WRITE
+  ↓
+SHAPE
+  ↓
+PUBLISH
 ```
 
-The workspace explicitly supports:
+No unnecessary ceremony.
 
-### `DRAFTS`
+Just the work—and a good place to do it.
 
-Work that isn't ready yet.
+---
 
-### `BROWSER-SAVED CONTENT`
+## `THE TOOLKIT`
 
-Articles and drafts persisted locally.
+<p align="center">
+  <img
+    src="https://placehold.co/1800x800/141414/666666/png?text=EVERYTHING+THE+IDEA+NEEDS."
+    width="100%"
+    alt="Editor features screenshot"
+  />
+</p>
 
-### `SCHEDULED POSTS`
+The editor gives writing structure without making structure the job.
 
-Content prepared for publication later.
+<table>
+<tr>
+<td width="33%" align="center">
 
-### `PUBLISHED ARTICLES`
+### `TEXT`
 
-Content ready for readers.
+**Bold**
+*Italic*
+~~Strike~~
+`Inline code`
+
+</td>
+
+<td width="33%" align="center">
+
+### `STRUCTURE`
+
+Headings
+Lists
+Quotes
+Dividers
+
+</td>
+
+<td width="33%" align="center">
+
+### `CONTENT`
+
+Links
+Images
+Tables
+Code
+
+</td>
+</tr>
+</table>
+
+<br />
 
 <p align="center">
 
-<img
-src="https://placehold.co/1800x950/0F172A/FFFFFF?text=ARTICLE+LIFECYCLE"
-alt="Article Lifecycle"
-width="100%"
-/>
+**Start with a thought. The rest has somewhere to go.**
 
 </p>
 
 ---
 
-# `05 / DON'T LOSE THE IDEA`
+# `03 / MAKE WORDS LOOK LIKE IDEAS.`
 
-Writing is messy.
+Writing isn't just about what you say.
 
-Refreshing a page shouldn't destroy your work.
+It's also about helping the reader understand **what matters**, **what connects**, and **where to look next**.
 
-The editor persists active work using browser session storage.
+Markdown provides the building blocks.
 
-That means an in-progress article can survive a reload while you're working on it.
+The article decides what to do with them.
 
-The editor also protects against accidental navigation when unsaved changes exist.
+---
 
-```text
-YOU ARE WRITING
-       │
-       ▼
-   CHANGE PAGE?
-       │
-       ▼
- UNSAVED CHANGES?
-       │
-   ┌───┴───┐
-  YES      NO
-   │        │
-   ▼        ▼
- WARNING   LEAVE
+## `TEXT FORMATTING`
+
+Some things deserve emphasis.
+
+Some things deserve restraint.
+
+And sometimes something is better left behind.
+
+```md
+**Make it important.**
+
+*Make it quieter.*
+
+~~Leave the old version behind.~~
+
+`Keep code precise.`
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x900/111827/FFFFFF?text=UNSAVED+CHANGES+PROTECTION"
-alt="Unsaved Changes Protection"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x720/151515/555555/png?text=TEXT+WITH+INTENTION"
+    width="100%"
+    alt="Text formatting screenshot"
+  />
 </p>
 
 ---
 
-# `06 / THE WRITER'S ROOM`
+## `HIERARCHY`
 
-The editor works with structured article data.
+Big ideas rarely arrive as one paragraph.
 
-An article includes much more than its body.
+Give them levels.
 
-```text
-ARTICLE
-│
-├── CONTENT
-├── MEDIA
-├── CLASSIFICATION
-├── NAVIGATION
-├── SEO
-├── PUBLISHING
-└── SETTINGS
-```
+Give them direction.
 
-At its core, article content includes:
+Give the reader somewhere to go.
 
-* Title
-* Subtitle
-* Excerpt
-* Body
-* Markdown format
-* Reading time
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x1000/09090B/FFFFFF?text=ARTICLE+EDITOR"
-alt="Article Editor"
-width="100%"
-/>
-
-</p>
-
----
-
-# `07 / WRITE IN MARKDOWN`
-
-Markdown keeps writing simple.
-
-But simple doesn't mean limited.
-
-The editor's article format is explicitly configured as:
-
-```text
-MARKDOWN
-```
-
-The platform is built to handle structured article content rather than plain blocks of text.
-
----
-
-# `08 / STRUCTURE THE STORY`
-
-## Headings
-
-```markdown
-# Main idea
+```md
+# Start here
 
 ## Go deeper
 
-### Get specific
+### Find the details
+
+#### Keep exploring
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x850/172554/FFFFFF?text=MARKDOWN+%E2%80%94+HEADINGS"
-alt="Markdown Headings"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x760/151515/555555/png?text=GIVE+IDEAS+SOME+ARCHITECTURE"
+    width="100%"
+    alt="Headings screenshot"
+  />
 </p>
 
 ---
 
-# `09 / MAKE IMPORTANT THINGS LOUD`
+## `LISTS`
 
-## Bold text
+Sometimes clarity is simply knowing what comes next.
 
-```markdown
-**This matters.**
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x850/111827/FFFFFF?text=MARKDOWN+%E2%80%94+BOLD"
-alt="Markdown Bold"
-width="100%"
-/>
-
-</p>
-
----
-
-# `10 / MAKE EMPHASIS QUIET`
-
-## Italic text
-
-```markdown
-*Sometimes subtle is better.*
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x850/0F172A/FFFFFF?text=MARKDOWN+%E2%80%94+ITALIC"
-alt="Markdown Italic"
-width="100%"
-/>
-
-</p>
-
----
-
-# `11 / CHANGE YOUR MIND`
-
-## Strikethrough
-
-```markdown
-~~That was the plan.~~
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x850/18181B/FFFFFF?text=MARKDOWN+%E2%80%94+STRIKETHROUGH"
-alt="Markdown Strikethrough"
-width="100%"
-/>
-
-</p>
-
----
-
-# `12 / MAKE A LIST`
-
-## Bullet lists
-
-```markdown
-- Think
+```md
+- Explore
+- Experiment
+- Learn
 - Build
-- Improve
+- Write about it
+```
+
+Or:
+
+```md
+1. Start somewhere
+2. Follow your curiosity
+3. Learn something unexpected
+4. Publish the journey
 ```
 
 <p align="center">
 
-<img
-src="https://placehold.co/1800x850/172554/FFFFFF?text=MARKDOWN+%E2%80%94+BULLET+LISTS"
-alt="Markdown Bullet Lists"
-width="100%"
-/>
+### Simple structure. Clear thinking.
 
 </p>
 
 ---
 
-## Ordered lists
+## `QUOTES`
 
-```markdown
-1. Start
-2. Build
-3. Ship
+Some sentences shouldn't have to fight for attention.
+
+Give them space.
+
+```md
+> Write things down before you forget
+> why they mattered.
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x850/111827/FFFFFF?text=MARKDOWN+%E2%80%94+ORDERED+LISTS"
-alt="Markdown Ordered Lists"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x700/151515/555555/png?text=SOME+WORDS+DESERVE+THEIR+OWN+SPACE"
+    width="100%"
+    alt="Blockquote screenshot"
+  />
 </p>
 
 ---
 
-# `13 / QUOTE THE MOMENT`
+# `04 / CODE BELONGS IN THE STORY.`
 
-```markdown
-> Good writing deserves good presentation.
+Technical writing shouldn't treat code like an attachment at the bottom of the page.
+
+Code can explain.
+
+Code can demonstrate.
+
+Code can be part of the narrative.
+
+````md
+```ts
+const idea = await explore();
+
+if (idea.isWorthSharing()) {
+  write(idea);
+  publish(idea);
+}
 ```
+````
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x900/0F172A/FFFFFF?text=MARKDOWN+%E2%80%94+BLOCKQUOTES"
-alt="Markdown Blockquotes"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1800x900/101010/666666/png?text=CODE+IS+ALSO+A+LANGUAGE"
+    width="100%"
+    alt="Code block screenshot"
+  />
 </p>
+
+<br />
+
+> **A good technical article doesn't interrupt the story with code.**
+> **It lets the code become part of it.**
 
 ---
 
-# `14 / SPEAK CODE`
+# `05 / SHOW. DON'T JUST TELL.`
 
-Technical writing needs code.
+Words can explain what happened.
 
-Inline examples.
+Images can make the reader feel like they were there.
 
-Commands.
+Markdown makes visual context part of the article.
 
-Multi-line snippets.
+```md
+![Something worth seeing](image.png)
+```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x1000/09090B/FFFFFF?text=CODE+IN+ARTICLES"
-alt="Code in Articles"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1800x1000/0D0D0D/666666/png?text=IMAGES+INSIDE+THE+STORY"
+    width="100%"
+    alt="Article images screenshot"
+  />
 </p>
 
-The project has dedicated component areas for:
+Built for moments that are easier to see than explain:
 
 ```text
-BLOG COMPONENTS
-│
-├── ARTICLE
-├── CODE
-├── EDITOR
-├── EMBEDS
-├── IMAGE
-├── SOCIALS
-└── VIDEO
+× TUTORIALS
+× PRODUCT WALKTHROUGHS
+× SCREENSHOTS
+× VISUAL EXPLANATIONS
+× EXPERIMENTS
+× STORIES
 ```
 
 ---
 
-# `15 / CLASSIFY THE IDEA`
+# `06 / CONNECT THE DOTS.`
 
-Articles aren't floating in space.
+## Links & references
 
-They can be classified using:
+Every interesting idea eventually points somewhere else.
 
-### Categories
+```md
+[Go down the rabbit hole →](https://example.com)
+```
 
-For organizing content by subject.
+Links turn a single article into part of something larger.
 
-### Tags
+**People · Projects · Resources · Ideas · The rest of the internet**
 
-For attaching more specific topics and metadata.
+<br />
 
-The admin workspace can search content using information including:
+<p align="center">
+
+`FOLLOW THE THREAD.`
+
+</p>
+
+---
+
+## `TABLES`
+
+Sometimes paragraphs aren't the answer.
+
+Sometimes information needs columns.
+
+```md
+| Tool | Why it's here |
+| :--- | :--- |
+| Next.js | The foundation |
+| React | The interface |
+| TypeScript | Confidence |
+```
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x720/151515/555555/png?text=WHEN+IDEAS+NEED+COLUMNS"
+    width="100%"
+    alt="Tables screenshot"
+  />
+</p>
+
+---
+
+# `07 / HIT PUBLISH.`
+
+<p align="center">
+  <img
+    src="https://placehold.co/1800x1000/080808/777777/png?text=FROM+PRIVATE+THOUGHT+TO+PUBLIC+IDEA"
+    width="100%"
+    alt="Publishing screenshot"
+  />
+</p>
+
+Writing is private.
+
+Publishing changes the equation.
+
+An unfinished thought becomes something another person can discover.
+
+A tutorial becomes someone's starting point.
+
+A lesson becomes part of another person's journey.
 
 ```text
-TITLE
-SUBTITLE
-EXCERPT
-SLUG
-TAGS
-SERIES
+DRAFT
+  │
+  ▼
+ARTICLE
+  │
+  ▼
+PUBLISHED
+  │
+  ▼
+DISCOVERED
 ```
 
-<p align="center">
+And suddenly—
 
-<img
-src="https://placehold.co/1800x950/1E293B/FFFFFF?text=CATEGORIES+%26+TAGS"
-alt="Categories and Tags"
-width="100%"
-/>
-
-</p>
+the idea is no longer just yours.
 
 ---
 
-# `16 / GO DEEPER WITH SERIES`
+# `08 / ONE IDEA CAN BECOME MANY.`
 
-Some ideas need more than one article.
+## Categories
 
-The article model supports:
+<p align="center">
+  <img
+    src="https://placehold.co/1800x950/101010/666666/png?text=FOLLOW+WHAT+INTERESTS+YOU"
+    width="100%"
+    alt="Categories screenshot"
+  />
+</p>
 
-* Series identification
-* Series ordering
-* Related article slugs
+A growing collection of writing needs more than a chronological list.
+
+Categories create different entrances into the archive.
+
+Start with a subject.
+
+Follow what interests you.
+
+Let curiosity decide where you go next.
 
 ```text
-THE BIG IDEA
-     │
-     ├── PART 01
-     ├── PART 02
-     ├── PART 03
-     └── PART 04
+YOU DON'T ALWAYS NEED A MAP.
+
+SOMETIMES YOU JUST NEED
+SOMETHING INTERESTING TO FOLLOW.
 ```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x950/111827/FFFFFF?text=ARTICLE+SERIES"
-alt="Article Series"
-width="100%"
-/>
-
-</p>
 
 ---
 
-# `17 / MEDIA BELONGS TO THE STORY`
+# `09 / SOME JOURNEYS TAKE MORE THAN ONE PAGE.`
 
-Articles support media configuration.
+## Article series
 
-This includes article banner media and dedicated media handling.
+<p align="center">
+  <img
+    src="https://placehold.co/1800x1000/0E0E0E/666666/png?text=KEEP+GOING."
+    width="100%"
+    alt="Article series screenshot"
+  />
+</p>
 
-The admin application also contains a dedicated:
+Some ideas are too large for one article.
+
+They need time.
+
+They need chapters.
+
+They need somewhere to continue.
+
+A series turns separate pieces of writing into one connected journey.
 
 ```text
-MEDIA
+ARTICLE 01 ──────┐
+                 │
+ARTICLE 02 ──────┼────→ THE JOURNEY
+                 │
+ARTICLE 03 ──────┘
 ```
 
-management area.
+Built for:
+
+* 📓 Learning journals
+* 🧭 Tutorials
+* 💻 Programming journeys
+* 🧩 Multi-part guides
+* 🔬 Technical deep dives
+
+Including structured learning journeys such as the **React Learning Journal**.
+
+---
+
+# `10 / THE ARTICLE IS THE DESTINATION.`
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x1000/172554/FFFFFF?text=MEDIA+MANAGEMENT"
-alt="Media Management"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1800x1100/090909/666666/png?text=THE+READING+EXPERIENCE"
+    width="100%"
+    alt="Reading experience screenshot"
+  />
 </p>
 
----
+Everything eventually leads here.
 
-# `18 / BEFORE YOU PUBLISH`
+The reader.
 
-## SEO is part of the article.
+The article.
 
-This is one of the most important features that the previous README failed to document properly.
+The moment when someone stops scrolling and actually spends time with an idea.
 
-The article editor contains an actual, structured SEO configuration.
-
-Not generic "SEO support."
-
-Actual article-level fields.
-
----
-
-## `SEARCH METADATA`
-
-Each article supports:
-
-* Meta title
-* Meta description
-* Canonical URL
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/0F172A/FFFFFF?text=SEO+%E2%80%94+SEARCH+METADATA"
-alt="SEO Search Metadata"
-width="100%"
-/>
-
-</p>
-
----
-
-# `19 / OPEN GRAPH`
-
-Articles also support Open Graph metadata.
-
-Including:
-
-* Open Graph title
-* Open Graph description
-* Open Graph image
-* Open Graph type
-
-This allows the article to carry dedicated metadata for richer previews.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/172554/FFFFFF?text=SEO+%E2%80%94+OPEN+GRAPH"
-alt="Open Graph Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-# `20 / TWITTER METADATA`
-
-The article model also contains dedicated Twitter configuration.
-
-Including:
-
-* Twitter card type
-* Twitter title
-* Twitter description
-* Twitter image
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/111827/FFFFFF?text=SEO+%E2%80%94+TWITTER+METADATA"
-alt="Twitter Metadata"
-width="100%"
-/>
-
-</p>
-
----
-
-# `21 / TELL CRAWLERS WHAT TO DO`
-
-SEO configuration also includes robots preferences.
+The experience is designed for:
 
 ```text
-ROBOTS
-│
-├── INDEX
-└── FOLLOW
+LONG-FORM WRITING
+TECHNICAL ARTICLES
+TUTORIALS
+LEARNING JOURNALS
+ESSAYS
+EXPERIMENTS
 ```
 
-Along with locale information.
+<br />
+
+> **The goal isn't just to get someone to open an article.**
+> **It's to make the article worth staying in.**
+
+---
+
+# `11 / BREAK THE TEXT WALL.`
+
+## The web has more dimensions than paragraphs.
+
+Some stories need more than text.
+
+They need context.
+
+Sound.
+
+Conversation.
+
+Movement.
+
+---
+
+### `SOCIAL`
+
+Bring conversations directly into the article.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x850/1E293B/FFFFFF?text=SEO+%E2%80%94+ROBOTS+SETTINGS"
-alt="Robots Settings"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x720/171717/555555/png?text=CONVERSATION,+IN+CONTEXT"
+    width="100%"
+    alt="Social media screenshot"
+  />
 </p>
 
 ---
 
-# `22 / THE PUBLISHING FLOW`
+### `MUSIC`
 
-Everything comes together here.
+Sometimes the story has a soundtrack.
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x720/171717/555555/png?text=PRESS+PLAY"
+    width="100%"
+    alt="Music embed screenshot"
+  />
+</p>
+
+---
+
+### `VIDEO`
+
+Some things are better understood in motion.
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x820/171717/555555/png?text=LET+THE+STORY+MOVE"
+    width="100%"
+    alt="Video screenshot"
+  />
+</p>
+
+---
+
+# `12 / THE WEB DOESN'T HAVE TO SIT STILL.`
+
+<p align="center">
+  <img
+    src="https://placehold.co/1800x1000/050505/666666/png?text=MOTION,+BUT+MAKE+IT+MEAN+SOMETHING"
+    width="100%"
+    alt="Motion screenshot"
+  />
+</p>
+
+Motion isn't decoration.
+
+It's timing.
+
+Feedback.
+
+Direction.
+
+A subtle signal that the interface understands what just happened.
+
+The project brings together:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-18181B?style=for-the-badge" alt="Lenis" />
+</p>
+
+For:
 
 ```text
-WRITE
-  ↓
-FORMAT
-  ↓
-CLASSIFY
-  ↓
-ADD MEDIA
-  ↓
-CONFIGURE SEO
-  ↓
-SAVE
-  ↓
-DRAFT / SCHEDULE / PUBLISH
+TRANSITIONS  →  SCROLLING  →  INTERACTION  →  RHYTHM
 ```
 
-<p align="center">
-
-<img
-src="https://placehold.co/1800x1000/09090B/FFFFFF?text=PUBLISHING+WORKFLOW"
-alt="Publishing Workflow"
-width="100%"
-/>
-
-</p>
+> **The goal isn't to animate everything.**
+> **The goal is to make everything feel better.**
 
 ---
 
-# `23 / FEATURE IT`
+# `13 / DON'T LET GOOD IDEAS DISAPPEAR.`
 
-Articles also contain publishing settings.
+<p align="center">
+  <img
+    src="https://placehold.co/1800x850/0B0B0B/666666/png?text=MAKE+THE+IDEA+FINDABLE"
+    width="100%"
+    alt="Discoverability screenshot"
+  />
+</p>
 
-Including:
+Publishing is only half the journey.
+
+The other half is being found.
+
+The platform includes infrastructure for:
 
 ```text
-FEATURED ARTICLE
+⌕  SEARCH ENGINE DISCOVERY
+⌕  SITEMAP GENERATION
+⌕  CRAWLER CONFIGURATION
+⌕  RSS DISTRIBUTION
 ```
 
-This allows content to carry explicit featured status as part of its article configuration.
+Because a good idea shouldn't disappear the moment you close the tab.
 
 ---
 
-# `24 / READ IT YOUR WAY`
+# `14 / UNDER THE HOOD.`
 
-The creator controls the article.
+The experience may feel creative.
 
-The reader controls the environment around it.
-
-And this part of the project is significantly more advanced than the earlier README suggested.
-
-The actual reader settings navigation contains:
-
-```text
-READER SETTINGS
-│
-├── PRESETS
-├── APPEARANCE
-├── TYPOGRAPHY
-├── READING LAYOUT
-├── ARTICLE LAYOUT
-├── ARTICLE INFO
-├── MEDIA
-└── WIDGETS
-```
-
-That's the real structure.
-
-Not guesses.
+The foundation is serious.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1800x1000/111827/FFFFFF?text=READER+SETTINGS+OVERVIEW"
-alt="Reader Settings Overview"
-width="100%"
-/>
-
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
 </p>
 
----
+<br />
 
-# `25 / PRESETS`
-
-Start with a reading configuration.
-
-Presets provide a dedicated entry point for reader preferences.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/172554/FFFFFF?text=READER+%E2%80%94+PRESETS"
-alt="Reader Presets"
-width="100%"
-/>
-
-</p>
+| SYSTEM             | TECHNOLOGIES                                           |
+| ------------------ | ------------------------------------------------------ |
+| 🏗️ **Foundation** | Next.js · React · TypeScript                           |
+| 🎨 **Styling**     | Tailwind CSS                                           |
+| 🧩 **Interface**   | shadcn/ui · Radix UI · Base UI · Floating UI           |
+| ✨ **Motion**       | Framer Motion · GSAP · Motion · Lenis · Rough Notation |
+| 🎬 **Media**       | React Tweet · Spotify Embed · Video.js                 |
 
 ---
 
-# `26 / APPEARANCE`
+# `15 / RUN THE EXPERIENCE.`
 
-The reader includes a dedicated appearance settings area.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/09090B/FFFFFF?text=READER+%E2%80%94+APPEARANCE"
-alt="Reader Appearance"
-width="100%"
-/>
-
-</p>
-
----
-
-# `27 / TYPOGRAPHY`
-
-Reading is typography.
-
-The reader has a dedicated typography configuration section.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/111827/FFFFFF?text=READER+%E2%80%94+TYPOGRAPHY"
-alt="Reader Typography"
-width="100%"
-/>
-
-</p>
-
----
-
-# `28 / READING LAYOUT`
-
-The overall reading environment has its own layout configuration.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/1E293B/FFFFFF?text=READER+%E2%80%94+READING+LAYOUT"
-alt="Reading Layout"
-width="100%"
-/>
-
-</p>
-
----
-
-# `29 / ARTICLE LAYOUT`
-
-The project separately distinguishes:
-
-```text
-READING LAYOUT
-
-        ≠
-
-ARTICLE LAYOUT
-```
-
-The article itself has its own dedicated layout configuration area.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/172554/FFFFFF?text=READER+%E2%80%94+ARTICLE+LAYOUT"
-alt="Article Layout"
-width="100%"
-/>
-
-</p>
-
----
-
-# `30 / ARTICLE INFO`
-
-Article information also has dedicated reader settings.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/0F172A/FFFFFF?text=READER+%E2%80%94+ARTICLE+INFO"
-alt="Article Information Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-# `31 / MEDIA PREFERENCES`
-
-Media presentation is also configurable from the reader settings system.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x900/111827/FFFFFF?text=READER+%E2%80%94+MEDIA"
-alt="Reader Media Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-# `32 / BUILD YOUR OWN SIDEBAR`
-
-The reader settings system includes an actual widget architecture.
-
-The source contains dedicated components for:
-
-* Adding widgets
-* Configuring widgets
-* Previewing widgets in the sidebar
-
-```text
-WIDGETS
-│
-├── ADD
-├── CONFIGURE
-└── PREVIEW
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x950/172554/FFFFFF?text=READER+%E2%80%94+WIDGETS"
-alt="Reader Widgets"
-width="100%"
-/>
-
-</p>
-
----
-
-# `33 / MORE THAN TEXT`
-
-The project separates rich content functionality into dedicated areas.
-
-Including:
-
-```text
-EMBEDS
-SOCIALS
-IMAGES
-VIDEO
-CODE
-```
-
-This makes the article system capable of supporting content beyond ordinary paragraphs.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x1000/09090B/FFFFFF?text=RICH+ARTICLE+CONTENT"
-alt="Rich Article Content"
-width="100%"
-/>
-
-</p>
-
----
-
-# `34 / THE OTHER ADMIN AREAS`
-
-The content workspace isn't only about posts.
-
-The admin structure also contains dedicated areas for:
-
-### `ABOUT`
-
-Managing the site's About content.
-
-### `MEDIA`
-
-Managing media-related content.
-
-### `SERIES`
-
-Managing multi-part content structures.
-
-### `SETTINGS`
-
-Managing application-level settings.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1800x1000/1E293B/FFFFFF?text=ADMIN+FEATURES"
-alt="Admin Features"
-width="100%"
-/>
-
-</p>
-
----
-
-# `35 / THE PROJECT STRUCTURE`
-
-```text
-blogs.bismay/
-│
-├── app/
-│   │
-│   ├── admin/
-│   │   ├── about/
-│   │   ├── media/
-│   │   ├── posts/
-│   │   ├── series/
-│   │   └── settings/
-│   │
-│   ├── blogs/
-│   ├── categories/
-│   ├── series/
-│   └── settings/
-│
-├── articles/
-│
-├── components/
-│   │
-│   ├── blog/
-│   │   ├── article/
-│   │   ├── code/
-│   │   ├── editor/
-│   │   ├── embeds/
-│   │   ├── image/
-│   │   ├── socials/
-│   │   └── video/
-│   │
-│   └── settings/
-│       ├── svgs/
-│       ├── widgets/
-│       ├── ReaderNav.tsx
-│       ├── SettingsSidebar.tsx
-│       └── WidgetsNav.tsx
-│
-├── lib/
-├── public/
-│
-└── package.json
-```
-
----
-
-# `36 / RUN IT`
-
-Clone the repository:
+### `01 — CLONE IT.`
 
 ```bash
 git clone https://github.com/Bismay-exe/blogs.bismay.git
 ```
 
-Enter the project:
+### `02 — ENTER IT.`
 
 ```bash
 cd blogs.bismay
 ```
 
-Install dependencies:
+### `03 — BUILD THE ENVIRONMENT.`
 
 ```bash
 npm install
 ```
 
-Start development:
+### `04 — START.`
 
 ```bash
 npm run dev
@@ -1055,76 +793,173 @@ Then open:
 http://localhost:3000
 ```
 
+<br />
+
+<p align="center">
+
+# `YOU'RE IN.`
+
+</p>
+
 ---
 
-# `37 / THE SCREENSHOT PLAN`
+# `16 / THE CONTROL PANEL.`
 
-This README is designed to be visual.
+| COMMAND              | WHAT HAPPENS                              |
+| -------------------- | ----------------------------------------- |
+| `npm run dev`        | 🚀 Start creating                         |
+| `npm run build`      | 📦 Prepare for production                 |
+| `npm run start`      | ▶️ Launch the production build            |
+| `npm run lint`       | 🧹 Keep things clean                      |
+| `npm run type-check` | 🔍 Let TypeScript find the problems first |
 
-Replace every placeholder with real screenshots from the project.
+---
 
-Recommended screenshots:
+# `17 / WHAT HAPPENS NEXT?`
+
+<p align="center">
+  <img
+    src="https://placehold.co/1800x700/101010/666666/png?text=STILL+EXPLORING."
+    width="100%"
+    alt="Roadmap"
+  />
+</p>
+
+The project is still evolving.
+
+And that's the point.
 
 ```text
-screenshots/
-
-01-homepage.png
-
-02-admin-dashboard.png
-03-blog-workspace.png
-04-article-lifecycle.png
-
-05-editor.png
-06-markdown-headings.png
-07-markdown-bold.png
-08-markdown-italic.png
-09-markdown-strikethrough.png
-10-markdown-lists.png
-11-markdown-blockquotes.png
-12-code.png
-
-13-categories-tags.png
-14-series.png
-15-media-management.png
-
-16-seo-metadata.png
-17-open-graph.png
-18-twitter-seo.png
-19-robots-settings.png
-20-publishing-workflow.png
-
-21-reader-overview.png
-22-reader-presets.png
-23-reader-appearance.png
-24-reader-typography.png
-25-reading-layout.png
-26-article-layout.png
-27-article-info.png
-28-reader-media.png
-29-reader-widgets.png
-
-30-rich-content.png
-31-admin-features.png
+[ ] Full-text search
+[ ] Smarter content discovery
+[ ] Tags
+[ ] Related articles
+[ ] Reading progress
+[ ] Bookmarks
+[ ] Reading history
+[ ] Newsletter integration
+[ ] Comments
+[ ] Analytics
+[ ] Accessibility improvements
 ```
+
+> **The best projects are never really finished.**
+> **They just become more interesting over time.**
 
 ---
 
-# `38 / BUILT BY`
+# `18 / COME BUILD SOMETHING.`
+
+Found an improvement?
+
+Have an experiment?
+
+Want to take an idea somewhere unexpected?
+
+**You're welcome here.**
+
+```bash
+git checkout -b feature/something-interesting
+```
+
+Make the change.
+
+Run the checks:
+
+```bash
+npm run lint
+npm run type-check
+```
+
+Then open a pull request.
+
+<p align="center">
+
+### BRING THE IDEA WITH YOU.
+
+</p>
+
+---
+
+# `19 / THE HUMAN BEHIND THE SCREEN.`
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x650/111111/777777/png?text=HELLO,+I%27M+BISMAY."
+    width="100%"
+    alt="Bismay"
+  />
+</p>
 
 ## Bismay
 
-GitHub: [@Bismay-exe](https://github.com/Bismay-exe)
+Developer.
 
-Repository: [blogs.bismay](https://github.com/Bismay-exe/blogs.bismay)
+Builder.
+
+Explorer of interesting ideas.
+
+Someone who believes the web can still surprise people.
+
+Someone who thinks creativity and technology don't belong in separate rooms.
+
+<p>
+  <a href="https://github.com/Bismay-exe">
+    <img src="https://img.shields.io/badge/GitHub-Bismay--exe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://blogs-bismay.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT_THE_BLOG-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit the Blog" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+# `20 / THAT'S NOT THE END.`
 
-# Write the story.
+<p align="center">
+  <img
+    src="https://placehold.co/1800x700/050505/F5F5F5/png?text=KEEP+EXPLORING."
+    width="100%"
+    alt="Keep exploring"
+  />
+</p>
 
-## Shape the experience.
+<br />
 
-### Let the reader make it theirs.
+<h2 align="center">
 
-</div>
+Ideas don't become interesting when they're finished.
+
+<br />
+
+They become interesting when someone decides to follow them.
+
+</h2>
+
+<br />
+
+<p align="center">
+
+`THIS IS JUST WHERE THE STORY PAUSES.`
+
+</p>
+
+<br />
+
+---
+
+## License
+
+No license has currently been specified for this repository.
+
+---
+
+<p align="center">
+  <a href="#top">
+    <strong>↑ BACK TO THE BEGINNING</strong>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity. Powered by ideas. Still exploring.</sub>
+</p>
