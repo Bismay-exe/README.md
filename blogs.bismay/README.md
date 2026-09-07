@@ -1,146 +1,124 @@
-<!-- ================================================================
-     BLOGS BY BISMAY
-     A modern publishing experience for the web.
-================================================================ -->
+<!--
+██████╗ ██╗      ██████╗  ██████╗ ███████╗
+██╔══██╗██║     ██╔═══██╗██╔════╝ ██╔════╝
+██████╔╝██║     ██║   ██║██║  ███╗███████╗
+██╔══██╗██║     ██║   ██║██║   ██║╚════██║
+██████╔╝███████╗╚██████╔╝╚██████╔╝███████║
+╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝
+
+        A place for ideas that refuse to stay still.
+-->
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x800/0A0A0A/F5F5F5/png?text=Blogs+by+Bismay"
-    alt="Blogs by Bismay"
-    width="100%"
-  />
+  <img src="https://placehold.co/1800x900/050505/F5F5F5/png?text=NOISE.+IDEAS.+CODE.+STORIES." width="100%" alt="Blogs by Bismay">
 </p>
 
+<br>
+
+<h1 align="center">
+  Blogs by Bismay
+</h1>
+
 <p align="center">
-  <a href="https://github.com/Bismay-exe/blogs.bismay/stargazers">
-    <img src="https://img.shields.io/github/stars/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Stars" />
+  <strong>
+    Not just a blog.<br>
+    A playground for ideas, experiments, stories, and the web.
+  </strong>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://blogs-bismay.vercel.app/">
+    <img src="https://img.shields.io/badge/ENTER_THE_SITE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Website">
   </a>
-  <a href="https://github.com/Bismay-exe/blogs.bismay/network/members">
-    <img src="https://img.shields.io/github/forks/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Forks" />
-  </a>
-  <a href="https://github.com/Bismay-exe/blogs.bismay/issues">
-    <img src="https://img.shields.io/github/issues/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Issues" />
-  </a>
-  <a href="https://github.com/Bismay-exe/blogs.bismay/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Pull Requests" />
+  &nbsp;
+  <a href="https://github.com/Bismay-exe/blogs.bismay">
+    <img src="https://img.shields.io/badge/EXPLORE_THE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Code">
   </a>
 </p>
 
-<h1 align="center">Blogs by Bismay</h1>
-
 <p align="center">
-  <strong>A thoughtfully crafted publishing platform for writing, learning, and exploring ideas.</strong>
+  <img src="https://img.shields.io/github/stars/Bismay-exe/blogs.bismay?style=flat-square&color=FFD700&label=stars" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Bismay-exe/blogs.bismay?style=flat-square&color=8B5CF6&label=forks" alt="Forks">
+  <img src="https://img.shields.io/github/issues/Bismay-exe/blogs.bismay?style=flat-square&color=EF4444&label=issues" alt="Issues">
+  <img src="https://img.shields.io/github/contributors/Bismay-exe/blogs.bismay?style=flat-square&color=22C55E&label=people" alt="Contributors">
 </p>
 
+<br>
+
+---
+
+<br>
+
+# `01 / WHAT IS THIS?`
+
 <p align="center">
-  Built for long-form content, rich storytelling, and a better reading experience.
+  <img src="https://placehold.co/1800x1000/0A0A0A/555555/png?text=THE+INTERNET+SHOULD+BE+MORE+FUN+TO+READ." width="100%" alt="Introduction">
 </p>
 
-<p align="center">
-  <a href="https://blogs-bismay.vercel.app/"><strong>Explore the website</strong></a>
-  ·
-  <a href="#features">Features</a>
-  ·
-  <a href="#getting-started">Get started</a>
-</p>
+<br>
 
-<br />
+Most publishing platforms begin with the same assumption:
+
+> **Write something. Put it on a page. Done.**
+
+This one doesn't.
+
+**Blogs by Bismay** is an experiment in making the experience around writing matter just as much as the writing itself.
+
+It's a place for:
+
+```text
+✦ technical deep dives
+✦ learning in public
+✦ experiments
+✦ stories
+✦ code
+✦ ideas
+✦ rabbit holes worth following
+```
+
+The platform combines a Markdown-powered writing workflow with rich media, motion, article series, categories, and a reading experience built specifically for the modern web.
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+
+**WRITE SOMETHING ↓**
+
 </p>
 
 ---
 
-## A different kind of blog
+# `02 / THE WRITER'S ROOM`
 
-Most blogs are designed as pages that happen to contain articles.
+## Markdown is the starting point.
 
-**Blogs by Bismay takes a different approach.**
-
-It treats publishing as an experience.
-
-From writing and structuring content to reading, exploring, and discovering related ideas, the platform is designed as a complete environment for modern web publishing.
-
-The result is a blog that combines:
-
-> **Writing × Design × Motion × Media × Technology**
-
-with one goal in mind:
-
-### Make the web a better place to read and write.
-
-<br />
+Not the limitation.
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x900/111111/777777/png?text=01+%E2%80%94+The+Homepage"
-    alt="Homepage preview"
-    width="100%"
-  />
+  <img src="https://placehold.co/1800x1000/111111/666666/png?text=THE+WRITER%27S+ROOM" width="100%" alt="Markdown Editor">
 </p>
 
----
+<br>
 
-# Features
+Writing should feel lightweight.
 
-## ✦ Built for publishing
+You shouldn't have to fight a complicated interface just to express an idea.
 
-The platform is designed around the complete lifecycle of content—not just displaying articles after they have been written.
-
-### A structured content experience
-
-* Long-form articles
-* Markdown-based writing
-* Category organization
-* Multi-part article series
-* Rich media content
-* Dedicated publishing tools
-* Responsive reading experiences
-* Search-engine discoverability
-* RSS distribution
-
-<br />
+The editor is built around **Markdown**—a format that stays simple when you're writing and becomes powerful when you're publishing.
 
 ---
 
-## ✍️ Write with Markdown
+## `TEXT`
 
-At the center of the publishing workflow is a Markdown-based writing experience.
-
-Markdown keeps writing simple while still providing the structure needed for detailed technical articles, tutorials, documentation, learning journals, and long-form writing.
-
-Instead of forcing writers into complicated document interfaces, the editor focuses on something more durable:
-
-### **Plain text with powerful structure.**
-
-<br />
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x900/121212/777777/png?text=02+%E2%80%94+Markdown+Editor"
-    alt="Markdown editor"
-    width="100%"
-  />
-</p>
-
----
-
-# Markdown, but not limited to plain text
-
-The editor supports structured writing through Markdown formatting.
-
-## Text formatting
-
-Create emphasis where it matters.
+Make the important parts impossible to miss.
 
 ```md
-**Bold text**
+**Bold**
 
-*Italic text*
+*Italic*
 
 ~~Strikethrough~~
 
@@ -148,406 +126,473 @@ Create emphasis where it matters.
 ```
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x750/171717/777777/png?text=Text+Formatting"
-    alt="Text formatting"
-    width="100%"
-  />
+  <img src="https://placehold.co/1600x700/141414/555555/png?text=BOLD.+ITALIC.+CODE." width="100%" alt="Text formatting">
 </p>
 
 ---
 
-## Headings
+## `STRUCTURE`
 
-Structure long-form writing into meaningful sections.
+Big ideas need hierarchy.
 
 ```md
-# Heading One
+# The big idea
 
-## Heading Two
+## Break it down
 
-### Heading Three
+### Go deeper
 
-#### Heading Four
+#### Keep exploring
 ```
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x750/171717/777777/png?text=Heading+System"
-    alt="Heading formatting"
-    width="100%"
-  />
+  <img src="https://placehold.co/1600x750/141414/555555/png?text=GIVE+IDEAS+SOME+STRUCTURE." width="100%" alt="Headings">
 </p>
 
 ---
 
-## Lists
+## `LISTS`
 
-Organize ideas clearly with ordered and unordered lists.
+Because sometimes the best way to think is one thing at a time.
 
 ```md
-- First idea
-- Second idea
-- Third idea
+- Build something
+- Break something
+- Learn something
+- Write about it
 ```
 
 ```md
-1. First step
-2. Second step
-3. Third step
+1. Start
+2. Explore
+3. Iterate
+4. Publish
 ```
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x750/171717/777777/png?text=Lists"
-    alt="Markdown lists"
-    width="100%"
-  />
-</p>
 
 ---
 
-## Blockquotes
+## `QUOTES`
 
-Highlight important thoughts, references, and ideas.
+For the sentences worth slowing down for.
 
 ```md
-> The best publishing tools disappear
-> and let the writing take over.
+> The best ideas usually start
+> as something you almost didn't write down.
 ```
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x700/171717/777777/png?text=Blockquotes"
-    alt="Blockquote formatting"
-    width="100%"
-  />
+  <img src="https://placehold.co/1600x700/141414/555555/png?text=SOME+WORDS+DESERVE+MORE+SPACE." width="100%" alt="Blockquotes">
 </p>
 
 ---
 
-## Code blocks
+## `CODE`
 
-Technical writing needs excellent code presentation.
+Because code is part of the story too.
 
 ````md
 ```ts
-const publishArticle = async () => {
-  await publish(article);
-};
+const idea = await explore();
+
+if (idea.isInteresting) {
+  write(idea);
+  publish(idea);
+}
 ```
 ````
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x800/171717/777777/png?text=Code+Blocks"
-    alt="Code blocks"
-    width="100%"
-  />
+  <img src="https://placehold.co/1600x850/141414/555555/png?text=CODE+IS+ALSO+A+LANGUAGE." width="100%" alt="Code blocks">
 </p>
 
 ---
 
-## Links
+## `LINKS`
 
-Connect ideas to the rest of the web.
+Every interesting idea eventually leads somewhere else.
 
 ```md
-[Visit Blogs by Bismay](https://blogs-bismay.vercel.app/)
+[Follow the rabbit hole](https://example.com)
 ```
 
 ---
 
-## Images
+## `IMAGES`
 
-Writing does not need to be limited to paragraphs.
+Some things are better shown than explained.
 
-Images can be integrated into articles to support:
-
-* Tutorials
-* Visual explanations
-* Product walkthroughs
-* Screenshots
-* Creative storytelling
+```md
+![Something worth seeing](image.png)
+```
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x900/171717/777777/png?text=Images+Inside+Articles"
-    alt="Images in articles"
-    width="100%"
-  />
+  <img src="https://placehold.co/1800x950/141414/555555/png?text=SHOW.+DON%27T+JUST+TELL." width="100%" alt="Images">
 </p>
 
 ---
 
-## Tables
+## `TABLES`
 
-Present structured information without leaving Markdown.
+For when ideas need columns.
 
 ```md
-| Technology | Role |
+| Thing | Why it matters |
 | :--- | :--- |
-| Next.js | Framework |
-| React | Interface |
-| TypeScript | Type safety |
-```
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x700/171717/777777/png?text=Tables"
-    alt="Markdown tables"
-    width="100%"
-  />
-</p>
-
----
-
-## Horizontal rules
-
-Create natural separation between major sections.
-
-```md
----
+| Writing | Turns thoughts into something real |
+| Code | Turns ideas into experiences |
+| Publishing | Lets the idea escape |
 ```
 
 ---
 
-# From draft to reading experience
-
-Writing is only one side of publishing.
-
-The other side is how the finished content feels.
-
-Blogs by Bismay transforms structured content into a reading experience designed for the modern web.
+# `03 / PRESS PUBLISH`
 
 <p align="center">
-  <img
-    src="https://placehold.co/1600x1000/0F0F0F/777777/png?text=03+%E2%80%94+The+Reading+Experience"
-    alt="Article reading experience"
-    width="100%"
-  />
+  <img src="https://placehold.co/1800x1000/080808/666666/png?text=FROM+DRAFT+TO+THE+WEB." width="100%" alt="Publishing">
 </p>
 
-The platform is built for:
-
-* Long-form reading
-* Technical writing
-* Tutorials
-* Learning journals
-* Personal essays
-* Multi-part guides
-* Rich media stories
-
----
-
-# Discover content your way
-
-## Categories
-
-As a publication grows, navigation becomes increasingly important.
-
-Categories provide a structured way to explore content by subject and help readers move naturally between related topics.
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x900/121212/777777/png?text=04+%E2%80%94+Categories"
-    alt="Categories"
-    width="100%"
-  />
-</p>
-
----
-
-# Learn through connected ideas
-
-## Article series
-
-Some topics are too large for a single article.
-
-Series allow multiple publications to become part of a larger learning journey.
-
-This makes the platform particularly useful for:
-
-* Step-by-step tutorials
-* Programming journeys
-* Educational content
-* Technical deep dives
-* Multi-part guides
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x900/121212/777777/png?text=05+%E2%80%94+Article+Series"
-    alt="Article series"
-    width="100%"
-  />
-</p>
-
-The repository includes structured series content, including a **React Learning Journal**.
-
----
-
-# More than text
-
-Modern publishing is not limited to paragraphs and images.
-
-Blogs by Bismay supports richer content experiences that allow articles to incorporate media from across the web.
-
-## Social content
-
-Embed conversations and posts directly into articles.
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x800/171717/777777/png?text=Embedded+Social+Content"
-    alt="Embedded social content"
-    width="100%"
-  />
-</p>
-
-## Music
-
-Integrate Spotify content when sound is part of the story.
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x800/171717/777777/png?text=Spotify+Integration"
-    alt="Spotify integration"
-    width="100%"
-  />
-</p>
-
-## Video
-
-Bring video directly into the reading experience.
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x800/171717/777777/png?text=Video+Integration"
-    alt="Video integration"
-    width="100%"
-  />
-</p>
-
----
-
-# Motion with purpose
-
-Motion is part of the experience—but it should never compete with the content.
-
-The platform uses modern animation and scrolling technologies to create a more natural and expressive interface.
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x900/0F0F0F/777777/png?text=06+%E2%80%94+Motion+and+Interaction"
-    alt="Motion and interaction"
-    width="100%"
-  />
-</p>
-
-The motion system is built around technologies including:
-
-<p>
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lenis-111111?style=flat-square" alt="Lenis" />
-</p>
-
-These tools support:
-
-* Smooth transitions
-* Interactive feedback
-* Scroll-based motion
-* Advanced animation sequences
-* Expressive visual details
-
-The goal is not to animate everything.
-
-The goal is to make interaction feel better.
-
----
-
-# Built to be discovered
-
-Great writing should not disappear into the internet.
-
-The platform includes infrastructure for making published content easier to discover and follow.
-
-### Search engines
-
-* Sitemap generation
-* Robots configuration
-
-### Readers
-
-* RSS feed support
-
-<p align="center">
-  <img
-    src="https://placehold.co/1600x750/121212/777777/png?text=07+%E2%80%94+SEO+and+Distribution"
-    alt="SEO and distribution"
-    width="100%"
-  />
-</p>
-
----
-
-# Technology
-
-The project is built with a modern web stack.
-
-## Core
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-</p>
-
-| Technology   | Purpose               |
-| ------------ | --------------------- |
-| Next.js      | Application framework |
-| React        | User interface        |
-| TypeScript   | Type safety           |
-| Tailwind CSS | Styling               |
-
-## Interface
-
-* shadcn/ui
-* Radix UI
-* Base UI
-* Floating UI
-* Lucide React
-* Iconify
-
-## Motion
-
-* Framer Motion
-* GSAP
-* Motion
-* Lenis
-* Rough Notation
-
-## Media
-
-* `react-tweet`
-* `react-spotify-embed`
-* `@videojs/react`
-
----
-
-# Getting started
-
-## Requirements
-
-Make sure you have **Node.js** and **npm** installed.
-
-```bash
-node --version
-npm --version
+Writing is private.
+
+Publishing is not.
+
+Once an article leaves the editor, it becomes part of a larger world—something readers can explore, discover, share, and connect with.
+
+The platform is designed around that transition.
+
+```text
+DRAFT
+  ↓
+WRITE
+  ↓
+STRUCTURE
+  ↓
+PUBLISH
+  ↓
+EXPLORE
 ```
 
-## Clone
+---
+
+# `04 / GO DEEPER`
+
+## One article is sometimes not enough.
+
+<p align="center">
+  <img src="https://placehold.co/1800x950/101010/666666/png?text=SOME+IDEAS+NEED+MORE+THAN+ONE+PAGE." width="100%" alt="Article Series">
+</p>
+
+A series turns isolated articles into something larger.
+
+A journey.
+
+A collection of connected ideas.
+
+A path someone can follow.
+
+Perfect for:
+
+```text
+01 — Tutorials
+02 — Learning journals
+03 — Programming journeys
+04 — Technical deep dives
+05 — Multi-part stories
+```
+
+The platform supports structured article series, including longer learning journeys such as the **React Learning Journal**.
+
+---
+
+# `05 / EXPLORE THE ARCHIVE`
+
+## Categories turn a collection into a world.
+
+<p align="center">
+  <img src="https://placehold.co/1800x950/101010/666666/png?text=FOLLOW+YOUR+CURIOSITY." width="100%" alt="Categories">
+</p>
+
+Articles don't have to exist alone.
+
+Categories make it easier to move through ideas by subject.
+
+Start somewhere.
+
+Follow something interesting.
+
+See where it takes you.
+
+---
+
+# `06 / THE ARTICLE`
+
+<p align="center">
+  <img src="https://placehold.co/1800x1100/090909/666666/png?text=THE+READING+EXPERIENCE." width="100%" alt="Reading Experience">
+</p>
+
+The final experience isn't designed like a document viewer.
+
+It's designed to be read.
+
+Long-form content.
+
+Technical writing.
+
+Stories.
+
+Tutorials.
+
+Experiments.
+
+Everything has room to breathe.
+
+---
+
+# `07 / READ IT YOUR WAY`
+
+## The article is yours.
+
+The words don't change.
+
+The experience can.
+
+Some people like compact text.
+
+Some want more space.
+
+Some want the page to disappear and leave only the story behind.
+
+So the reader gets a say.
+
+---
+
+## `THE READER`
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x900/111827/FFFFFF?text=Article+Reader+Experience"
+alt="Article Reader Experience"
+width="100%"
+/>
+
+</p>
+
+<p align="center">
+<em>The place where everything comes together — Placeholder</em>
+</p>
+
+---
+
+# `08 / TUNE THE EXPERIENCE`
+
+One article.
+
+Different ways to experience it.
+
+Open the reader settings and make the page feel right.
+
+```text
+READER SETTINGS
+      ↓
+TYPE
+      ↓
+SIZE
+      ↓
+SPACING
+      ↓
+APPEARANCE
+      ↓
+YOUR WAY
+```
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x900/172554/FFFFFF?text=Reader+Settings+Overview"
+alt="Reader Settings Overview"
+width="100%"
+/>
+
+</p>
+
+---
+
+## `TYPE`
+
+### The way words look matters.
+
+A good article can become difficult to read if the typography doesn't feel right.
+
+Choose the reading style that works for you.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x850/0F172A/FFFFFF?text=Reader+Settings+%E2%80%94+Font+Selection"
+alt="Font Selection"
+width="100%"
+/>
+
+</p>
+
+---
+
+## `SIZE`
+
+### Give the words some room.
+
+Or fit more on the page.
+
+Reading shouldn't require zooming your browser just because the default size isn't yours.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x850/1E293B/FFFFFF?text=Reader+Settings+%E2%80%94+Font+Size"
+alt="Font Size Settings"
+width="100%"
+/>
+
+</p>
+
+---
+
+## `SPACE`
+
+### Reading has a rhythm.
+
+The distance between lines changes how a paragraph feels.
+
+More breathing room.
+
+Less visual noise.
+
+A pace that works for you.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x850/111827/FFFFFF?text=Reader+Settings+%E2%80%94+Reading+Spacing"
+alt="Reading Spacing Settings"
+width="100%"
+/>
+
+</p>
+
+---
+
+## `WIDTH`
+
+### Not every screen should feel the same.
+
+Wide screens.
+
+Small screens.
+
+Long paragraphs.
+
+Different situations need different amounts of space.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x850/172554/FFFFFF?text=Reader+Settings+%E2%80%94+Content+Width"
+alt="Content Width Settings"
+width="100%"
+/>
+
+</p>
+
+---
+
+## `APPEARANCE`
+
+### Change the atmosphere.
+
+Sometimes you want the page to disappear.
+
+Sometimes you want contrast.
+
+Sometimes you just want something easier on your eyes.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x850/09090B/FFFFFF?text=Reader+Settings+%E2%80%94+Appearance"
+alt="Appearance Settings"
+width="100%"
+/>
+
+</p>
+
+---
+
+# `09 / SAME WORDS. DIFFERENT EXPERIENCE.`
+
+```text
+ARTICLE
+   │
+   ├── FONT
+   ├── SIZE
+   ├── SPACING
+   ├── WIDTH
+   └── APPEARANCE
+          │
+          ▼
+     YOUR READER
+```
+
+The content stays the same.
+
+The experience doesn't have to.
+
+<p align="center">
+
+<img
+src="https://placehold.co/1600x900/1E293B/FFFFFF?text=Personalized+Reading+Experience"
+alt="Personalized Reading Experience"
+width="100%"
+/>
+
+</p>
+
+
+---
+
+# `10 / UNDER THE HOOD`
+
+The experience is built on a modern stack.
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
+
+</p>
+
+### Core
+
+**Next.js** · **React** · **TypeScript** · **Tailwind CSS**
+
+### Interface
+
+**shadcn/ui** · **Radix UI** · **Floating UI** · **Lucide**
+
+### Motion
+
+**Framer Motion** · **GSAP** · **Motion** · **Lenis**
+
+### Media
+
+**React Tweet** · **Spotify Embed** · **Video.js**
+
+---
+
+# `11 / RUN IT YOURSELF`
 
 ```bash
 git clone https://github.com/Bismay-exe/blogs.bismay.git
@@ -557,19 +602,15 @@ git clone https://github.com/Bismay-exe/blogs.bismay.git
 cd blogs.bismay
 ```
 
-## Install
-
 ```bash
 npm install
 ```
-
-## Run
 
 ```bash
 npm run dev
 ```
 
-Open:
+Then open:
 
 ```text
 http://localhost:3000
@@ -577,88 +618,110 @@ http://localhost:3000
 
 ---
 
-# Commands
+# `12 / THE COMMAND CENTER`
 
-| Command              | Description               |
-| -------------------- | ------------------------- |
-| `npm run dev`        | Start development         |
-| `npm run build`      | Create a production build |
-| `npm run start`      | Run the production build  |
-| `npm run lint`       | Run linting               |
-| `npm run type-check` | Check TypeScript types    |
+| Command              | What it does                            |
+| :------------------- | :-------------------------------------- |
+| `npm run dev`        | Start building                          |
+| `npm run build`      | Prepare for production                  |
+| `npm run start`      | Run the production build                |
+| `npm run lint`       | Keep the code clean                     |
+| `npm run type-check` | Let TypeScript complain before users do |
 
 ---
 
-# Project structure
+# `13 / WHAT'S NEXT?`
 
-The project is organized around publishing and application functionality.
+The project is still moving.
+
+Possible directions include:
 
 ```text
-blogs.bismay/
-│
-├── app/
-│   ├── blogs/          # Published content
-│   ├── categories/     # Content discovery
-│   ├── series/         # Connected articles
-│   ├── admin/          # Publishing management
-│   ├── api/            # Application endpoints
-│   ├── rss.xml/        # RSS feed
-│   ├── robots.ts
-│   └── sitemap.ts
-│
-├── articles/
-│   ├── format/
-│   └── series/
-│
-├── components/
-├── lib/
-└── public/
+[ ] Full-text search
+[ ] Tags and smarter discovery
+[ ] Related articles
+[ ] Reading progress
+[ ] Bookmarks
+[ ] Reading history
+[ ] Newsletter support
+[ ] Comments
+[ ] Analytics
+[ ] Accessibility improvements
 ```
+
+The best part of a project like this?
+
+There's always another idea worth exploring.
 
 ---
 
-# Contributing
+# `14 / CONTRIBUTE`
 
-Ideas, improvements, and contributions are welcome.
+Found something interesting to improve?
 
-1. Fork the repository.
-2. Create a branch.
+Want to experiment?
+
+Have an idea that belongs here?
+
+You're welcome.
 
 ```bash
-git checkout -b feature/my-feature
+git checkout -b feature/something-interesting
 ```
 
-3. Make your changes.
-4. Run the checks.
+Make your changes.
+
+Then:
 
 ```bash
 npm run lint
 npm run type-check
 ```
 
-5. Commit and push your work.
-6. Open a pull request.
+Open a pull request and tell the story behind what you changed.
 
 ---
 
-# Contact
+# `15 / THE HUMAN BEHIND IT`
 
-**Bismay**
+## Bismay
 
-[GitHub](https://github.com/Bismay-exe) · [Website](https://blogs-bismay.vercel.app/)
+Developer.
 
----
+Builder.
 
-# License
+Writer.
 
-No license has currently been specified for this repository.
+Someone who likes exploring what happens when technology and creativity collide.
 
----
-
-<p align="center">
-  <strong>Built for ideas worth writing about.</strong>
+<p>
+  <a href="https://github.com/Bismay-exe">
+    <img src="https://img.shields.io/badge/GitHub-Bismay--exe-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://blogs-bismay.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Visit_the_blog-000000?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
+---
+
+<br>
+
 <p align="center">
-  <a href="#blogs-by-bismay">↑ Back to the top</a>
+  <img src="https://placehold.co/1800x500/050505/F5F5F5/png?text=KEEP+EXPLORING." width="100%" alt="Keep Exploring">
+</p>
+
+<h2 align="center">
+  Ideas are everywhere.<br>
+  Write some down.
+</h2>
+
+<p align="center">
+  <a href="#blogs-by-bismay">↑ Return to the beginning</a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Made with curiosity, caffeine, and an unreasonable number of ideas.</sub>
 </p>
