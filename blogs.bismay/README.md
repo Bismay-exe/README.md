@@ -1,993 +1,569 @@
-<div align="center">
-
-# Blogs by Bismay
-
-### A modern, customizable publishing and reading experience built for the web.
-
-<br />
-
-**Write with Markdown. Publish rich content. Read your way.**
-
-<br />
-
-[Live Website](https://blogs-bismay.vercel.app) · [Repository](https://github.com/Bismay-exe/blogs.bismay)
-
-<br />
-
-<img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-<br /><br />
-
-</div>
-
----
-
-# Overview
-
-**Blogs by Bismay** is a modern personal publishing platform designed around two equally important experiences:
-
-* **Writing** — creating structured and expressive content with Markdown.
-* **Reading** — consuming that content through a customizable, visually rich, and distraction-conscious interface.
-
-The project goes beyond a conventional blog layout by combining Markdown authoring, rich media, reader customization, motion, interactive components, and modern frontend technologies.
-
-The goal is not simply to display articles.
-
-The goal is to create a better **publishing and reading experience**.
-
----
+<!-- ================================================================
+     BLOGS BY BISMAY
+     A modern publishing experience for the web.
+================================================================ -->
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/111827/FFFFFF?text=Blogs+by+Bismay+Homepage"
-alt="Blogs by Bismay Homepage"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x800/0A0A0A/F5F5F5/png?text=Blogs+by+Bismay"
+    alt="Blogs by Bismay"
+    width="100%"
+  />
 </p>
 
-<p align="center"><em>Homepage — Screenshot placeholder</em></p>
+<p align="center">
+  <a href="https://github.com/Bismay-exe/blogs.bismay/stargazers">
+    <img src="https://img.shields.io/github/stars/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Stars" />
+  </a>
+  <a href="https://github.com/Bismay-exe/blogs.bismay/network/members">
+    <img src="https://img.shields.io/github/forks/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Forks" />
+  </a>
+  <a href="https://github.com/Bismay-exe/blogs.bismay/issues">
+    <img src="https://img.shields.io/github/issues/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Issues" />
+  </a>
+  <a href="https://github.com/Bismay-exe/blogs.bismay/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Bismay-exe/blogs.bismay?style=flat-square&color=18181B&labelColor=09090B" alt="Pull Requests" />
+  </a>
+</p>
+
+<h1 align="center">Blogs by Bismay</h1>
+
+<p align="center">
+  <strong>A thoughtfully crafted publishing platform for writing, learning, and exploring ideas.</strong>
+</p>
+
+<p align="center">
+  Built for long-form content, rich storytelling, and a better reading experience.
+</p>
+
+<p align="center">
+  <a href="https://blogs-bismay.vercel.app/"><strong>Explore the website</strong></a>
+  ·
+  <a href="#features">Features</a>
+  ·
+  <a href="#getting-started">Get started</a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+</p>
 
 ---
 
-# Table of Contents
+## A different kind of blog
 
-* [Features](#features)
-* [Markdown Editor](#markdown-editor)
-* [Markdown Formatting](#markdown-formatting)
-* [Reader Experience](#reader-experience)
-* [Reader Settings](#reader-settings)
-* [Typography and Appearance](#typography-and-appearance)
-* [Rich Media](#rich-media)
-* [Blog Architecture](#blog-architecture)
-* [Interactive Experiences](#interactive-experiences)
-* [Motion and Animation](#motion-and-animation)
-* [SEO and Content Distribution](#seo-and-content-distribution)
-* [Technology Stack](#technology-stack)
-* [Project Architecture](#project-architecture)
-* [Getting Started](#getting-started)
-* [Available Commands](#available-commands)
-* [Deployment](#deployment)
+Most blogs are designed as pages that happen to contain articles.
+
+**Blogs by Bismay takes a different approach.**
+
+It treats publishing as an experience.
+
+From writing and structuring content to reading, exploring, and discovering related ideas, the platform is designed as a complete environment for modern web publishing.
+
+The result is a blog that combines:
+
+> **Writing × Design × Motion × Media × Technology**
+
+with one goal in mind:
+
+### Make the web a better place to read and write.
+
+<br />
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x900/111111/777777/png?text=01+%E2%80%94+The+Homepage"
+    alt="Homepage preview"
+    width="100%"
+  />
+</p>
 
 ---
 
 # Features
 
-## ✍️ Markdown-based authoring
+## ✦ Built for publishing
 
-Create articles using structured Markdown formatting.
+The platform is designed around the complete lifecycle of content—not just displaying articles after they have been written.
 
-## 📝 Rich text formatting
+### A structured content experience
 
-Write headings, lists, quotes, code, links, images, tables, and other structured content.
-
-## 📖 Customizable reading experience
-
-Reader-focused settings allow the reading interface to be adjusted according to personal preferences.
-
-## 🔤 Typography controls
-
-Customize the visual presentation of text for a more comfortable reading experience.
-
-## 🎨 Appearance customization
-
-Adjust the visual environment of the reader.
-
-## 🎵 Rich media embeds
-
-Integrate Spotify, social media, and video content into articles.
-
-## 🌊 Smooth scrolling
-
-A smoother navigation experience powered by modern scrolling technology.
-
-## ✨ Motion-driven UI
-
-Interactive and animated experiences built using multiple animation libraries.
-
-## 📰 Dynamic blog architecture
-
-Slug-based routes allow articles to have dedicated URLs.
-
-## 📡 RSS support
-
-Infrastructure for distributing content through RSS.
-
-## 🔍 SEO infrastructure
-
-Sitemap and robots configuration for content discoverability.
-
----
-
-# Markdown Editor
-
-The Markdown editor is one of the core parts of the publishing workflow.
-
-Markdown was chosen because it provides a practical balance between simplicity and expressive power.
-
-Instead of locking content into a proprietary rich-text format, Markdown keeps articles structured, portable, and readable.
-
-It is particularly well suited for:
-
-* Technical writing
-* Programming tutorials
-* Documentation
 * Long-form articles
-* Development notes
-* Educational content
+* Markdown-based writing
+* Category organization
+* Multi-part article series
+* Rich media content
+* Dedicated publishing tools
+* Responsive reading experiences
+* Search-engine discoverability
+* RSS distribution
+
+<br />
 
 ---
+
+## ✍️ Write with Markdown
+
+At the center of the publishing workflow is a Markdown-based writing experience.
+
+Markdown keeps writing simple while still providing the structure needed for detailed technical articles, tutorials, documentation, learning journals, and long-form writing.
+
+Instead of forcing writers into complicated document interfaces, the editor focuses on something more durable:
+
+### **Plain text with powerful structure.**
+
+<br />
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/0F172A/FFFFFF?text=Markdown+Editor+Overview"
-alt="Markdown Editor Overview"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x900/121212/777777/png?text=02+%E2%80%94+Markdown+Editor"
+    alt="Markdown editor"
+    width="100%"
+  />
 </p>
-
-<p align="center"><em>Markdown editor — Screenshot placeholder</em></p>
 
 ---
 
-# Markdown Formatting
+# Markdown, but not limited to plain text
 
-The editor supports structured content creation through Markdown formatting.
+The editor supports structured writing through Markdown formatting.
 
-Each formatting feature contributes to making articles easier to write and easier to read.
+## Text formatting
+
+Create emphasis where it matters.
+
+```md
+**Bold text**
+
+*Italic text*
+
+~~Strikethrough~~
+
+`Inline code`
+```
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x750/171717/777777/png?text=Text+Formatting"
+    alt="Text formatting"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## Headings
 
-Headings provide the document structure required for long-form articles.
+Structure long-form writing into meaningful sections.
 
-```markdown
-# Heading 1
+```md
+# Heading One
 
-## Heading 2
+## Heading Two
 
-### Heading 3
+### Heading Three
 
-#### Heading 4
+#### Heading Four
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x850/172554/FFFFFF?text=Markdown+Format+%E2%80%94+Headings"
-alt="Markdown Headings"
-width="100%"
-/>
-
-</p>
-
-<p align="center"><em>Headings — Screenshot placeholder</em></p>
-
----
-
-## Bold Text
-
-Bold text can be used to emphasize important concepts and information.
-
-```markdown
-**Important text**
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/1E293B/FFFFFF?text=Markdown+Format+%E2%80%94+Bold"
-alt="Markdown Bold Formatting"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x750/171717/777777/png?text=Heading+System"
+    alt="Heading formatting"
+    width="100%"
+  />
 </p>
 
 ---
 
-## Italic Text
+## Lists
 
-Italic formatting can be used for emphasis, terminology, and contextual information.
+Organize ideas clearly with ordered and unordered lists.
 
-```markdown
-*Italic text*
+```md
+- First idea
+- Second idea
+- Third idea
 ```
 
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/111827/FFFFFF?text=Markdown+Format+%E2%80%94+Italic"
-alt="Markdown Italic Formatting"
-width="100%"
-/>
-
-</p>
-
----
-
-## Strikethrough
-
-Strikethrough formatting can be used for outdated, corrected, or intentionally removed information.
-
-```markdown
-~~Old information~~
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/18181B/FFFFFF?text=Markdown+Format+%E2%80%94+Strikethrough"
-alt="Markdown Strikethrough Formatting"
-width="100%"
-/>
-
-</p>
-
----
-
-# Lists
-
-Lists help structure information into readable sections.
-
----
-
-## Unordered Lists
-
-```markdown
-- First item
-- Second item
-- Third item
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/172554/FFFFFF?text=Markdown+Format+%E2%80%94+Bullet+Lists"
-alt="Markdown Bullet Lists"
-width="100%"
-/>
-
-</p>
-
----
-
-## Ordered Lists
-
-```markdown
+```md
 1. First step
 2. Second step
 3. Third step
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x850/0F172A/FFFFFF?text=Markdown+Format+%E2%80%94+Ordered+Lists"
-alt="Markdown Ordered Lists"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x750/171717/777777/png?text=Lists"
+    alt="Markdown lists"
+    width="100%"
+  />
 </p>
 
 ---
 
-## Task Lists
+## Blockquotes
 
-Task lists are useful for tutorials, guides, project notes, and development checklists.
+Highlight important thoughts, references, and ideas.
 
-```markdown
-- [x] Completed
-- [ ] In progress
-- [ ] Planned
+```md
+> The best publishing tools disappear
+> and let the writing take over.
 ```
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x850/1E293B/FFFFFF?text=Markdown+Format+%E2%80%94+Task+Lists"
-alt="Markdown Task Lists"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x700/171717/777777/png?text=Blockquotes"
+    alt="Blockquote formatting"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Blockquotes
+## Code blocks
 
-Blockquotes provide visual emphasis for quotations, notes, and important observations.
+Technical writing needs excellent code presentation.
 
-```markdown
-> This is a blockquote.
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/111827/FFFFFF?text=Markdown+Format+%E2%80%94+Blockquotes"
-alt="Markdown Blockquotes"
-width="100%"
-/>
-
-</p>
-
----
-
-# Code Formatting
-
-The platform is particularly suited for technical writing, making code presentation an important part of the reading experience.
-
----
-
-## Inline Code
-
-Inline code is useful when referencing commands, variables, functions, or technical concepts.
-
-```markdown
-Use `npm run dev` to start the application.
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/0F172A/FFFFFF?text=Markdown+Format+%E2%80%94+Inline+Code"
-alt="Markdown Inline Code"
-width="100%"
-/>
-
-</p>
-
----
-
-## Code Blocks
-
-Multi-line code examples can be written using fenced code blocks.
-
-````markdown
-```typescript
-function greet(name: string) {
-  return `Hello, ${name}!`;
-}
+````md
+```ts
+const publishArticle = async () => {
+  await publish(article);
+};
 ```
 ````
 
-This makes the platform suitable for:
-
-* Programming tutorials
-* Technical documentation
-* Code walkthroughs
-* API examples
-
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/09090B/FFFFFF?text=Markdown+Format+%E2%80%94+Code+Blocks"
-alt="Markdown Code Blocks"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x800/171717/777777/png?text=Code+Blocks"
+    alt="Code blocks"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Links
+## Links
 
-Links can connect articles with documentation, external resources, references, and related content.
+Connect ideas to the rest of the web.
 
-```markdown
-[Visit the project](https://example.com)
+```md
+[Visit Blogs by Bismay](https://blogs-bismay.vercel.app/)
 ```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/172554/FFFFFF?text=Markdown+Format+%E2%80%94+Links"
-alt="Markdown Links"
-width="100%"
-/>
-
-</p>
 
 ---
 
-# Images
+## Images
 
-Images can be incorporated directly into written content.
+Writing does not need to be limited to paragraphs.
 
-```markdown
-![Image description](image-url)
-```
+Images can be integrated into articles to support:
 
-This makes Markdown suitable for articles that include:
-
-* Screenshots
-* Diagrams
 * Tutorials
 * Visual explanations
-* Project demonstrations
+* Product walkthroughs
+* Screenshots
+* Creative storytelling
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/1E293B/FFFFFF?text=Markdown+Format+%E2%80%94+Images"
-alt="Markdown Images"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x900/171717/777777/png?text=Images+Inside+Articles"
+    alt="Images in articles"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Tables
+## Tables
 
-Tables allow structured information to be presented clearly.
+Present structured information without leaving Markdown.
 
-```markdown
-| Technology | Purpose |
-| ---------- | ------- |
-| Next.js    | Framework |
-| React      | UI |
+```md
+| Technology | Role |
+| :--- | :--- |
+| Next.js | Framework |
+| React | Interface |
 | TypeScript | Type safety |
 ```
 
-Tables are useful for:
-
-* Comparisons
-* Technical documentation
-* Feature breakdowns
-* Reference information
-
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/111827/FFFFFF?text=Markdown+Format+%E2%80%94+Tables"
-alt="Markdown Tables"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x700/171717/777777/png?text=Tables"
+    alt="Markdown tables"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Horizontal Rules
+## Horizontal rules
 
-Horizontal rules can be used to visually separate sections.
+Create natural separation between major sections.
 
-```markdown
+```md
 ---
 ```
 
+---
+
+# From draft to reading experience
+
+Writing is only one side of publishing.
+
+The other side is how the finished content feels.
+
+Blogs by Bismay transforms structured content into a reading experience designed for the modern web.
+
 <p align="center">
+  <img
+    src="https://placehold.co/1600x1000/0F0F0F/777777/png?text=03+%E2%80%94+The+Reading+Experience"
+    alt="Article reading experience"
+    width="100%"
+  />
+</p>
 
-<img
-src="https://placehold.co/1600x750/0F172A/FFFFFF?text=Markdown+Format+%E2%80%94+Horizontal+Rules"
-alt="Markdown Horizontal Rules"
-width="100%"
-/>
+The platform is built for:
 
+* Long-form reading
+* Technical writing
+* Tutorials
+* Learning journals
+* Personal essays
+* Multi-part guides
+* Rich media stories
+
+---
+
+# Discover content your way
+
+## Categories
+
+As a publication grows, navigation becomes increasingly important.
+
+Categories provide a structured way to explore content by subject and help readers move naturally between related topics.
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x900/121212/777777/png?text=04+%E2%80%94+Categories"
+    alt="Categories"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Reader Experience
+# Learn through connected ideas
 
-Writing is only one side of the platform.
+## Article series
 
-The other side is reading.
+Some topics are too large for a single article.
 
-Blogs by Bismay treats the reading experience as a customizable environment rather than a fixed page.
+Series allow multiple publications to become part of a larger learning journey.
 
-Different readers have different preferences.
+This makes the platform particularly useful for:
 
-Some prefer larger text.
-
-Some prefer denser layouts.
-
-Some prefer a different visual appearance.
-
-Some prefer to reduce distractions and focus entirely on the article.
-
-The reader settings architecture is designed around this idea.
-
----
+* Step-by-step tutorials
+* Programming journeys
+* Educational content
+* Technical deep dives
+* Multi-part guides
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/111827/FFFFFF?text=Article+Reader+Experience"
-alt="Article Reader Experience"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x900/121212/777777/png?text=05+%E2%80%94+Article+Series"
+    alt="Article series"
+    width="100%"
+  />
 </p>
 
-<p align="center"><em>Article reader — Screenshot placeholder</em></p>
+The repository includes structured series content, including a **React Learning Journal**.
 
 ---
 
-# Reader Settings
+# More than text
 
-The project includes a dedicated reader settings experience for controlling how articles are presented.
+Modern publishing is not limited to paragraphs and images.
 
-Instead of forcing every visitor into one reading configuration, the interface is designed to give readers control over the presentation.
+Blogs by Bismay supports richer content experiences that allow articles to incorporate media from across the web.
 
-The settings experience focuses on the most important parts of reading:
+## Social content
 
-* Typography
-* Text sizing
-* Visual appearance
-* Reading comfort
-* Layout preferences
-* Reader-focused presentation
-
----
+Embed conversations and posts directly into articles.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x900/172554/FFFFFF?text=Reader+Settings+Panel"
-alt="Reader Settings Panel"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x800/171717/777777/png?text=Embedded+Social+Content"
+    alt="Embedded social content"
+    width="100%"
+  />
 </p>
 
-<p align="center"><em>Reader settings — Screenshot placeholder</em></p>
+## Music
 
----
-
-# Typography and Appearance
-
-Typography has a direct impact on readability.
-
-For a content-focused application, typography should not be treated as a purely decorative detail.
-
-The reader customization system provides a dedicated space for adjusting how content feels while being read.
-
----
-
-## Font Preferences
-
-Different typefaces create different reading experiences.
-
-The reader settings provide typography controls that allow the presentation of article content to be adjusted according to the available preferences in the application.
+Integrate Spotify content when sound is part of the story.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x850/1E293B/FFFFFF?text=Reader+Settings+%E2%80%94+Font+Preferences"
-alt="Reader Font Preferences"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x800/171717/777777/png?text=Spotify+Integration"
+    alt="Spotify integration"
+    width="100%"
+  />
 </p>
-
-<p align="center"><em>Typography settings — Screenshot placeholder</em></p>
-
----
-
-## Text Size
-
-Text size is one of the most important accessibility and comfort controls in a reading application.
-
-The reader settings allow the reading experience to adapt to different preferences and display environments.
-
-This is particularly valuable for:
-
-* Long-form articles
-* Extended reading sessions
-* Different screen sizes
-* Reader accessibility
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/111827/FFFFFF?text=Reader+Settings+%E2%80%94+Text+Size"
-alt="Reader Text Size Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-## Reading Appearance
-
-The appearance of the reading environment can significantly affect comfort and focus.
-
-The project includes reader-oriented appearance controls so that the presentation can be adjusted independently from the article content.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/0F172A/FFFFFF?text=Reader+Settings+%E2%80%94+Appearance"
-alt="Reader Appearance Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-## Reading Layout
-
-The reading interface is designed around content consumption rather than generic application dashboards.
-
-Layout-related settings provide a foundation for controlling how the reader interacts with long-form content.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/172554/FFFFFF?text=Reader+Settings+%E2%80%94+Reading+Layout"
-alt="Reader Layout Settings"
-width="100%"
-/>
-
-</p>
-
----
-
-## Personalized Reading Environment
-
-The overall purpose of reader settings is to allow readers to create a more comfortable environment.
-
-The article remains the same.
-
-The presentation can adapt.
-
-```text
-Article Content
-       │
-       ▼
-Reader Preferences
-       │
-       ├── Typography
-       ├── Text Size
-       ├── Appearance
-       └── Layout
-       │
-       ▼
-Personalized Reading Experience
-```
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x900/09090B/FFFFFF?text=Personalized+Reading+Experience"
-alt="Personalized Reading Experience"
-width="100%"
-/>
-
-</p>
-
----
-
-# Rich Media
-
-Articles are not limited to plain text.
-
-The project includes support for integrating external media into content.
-
----
-
-## X / Twitter
-
-The application uses `react-tweet` to support embedded social posts.
-
-This allows articles to reference discussions and public posts directly within the reading experience.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/111827/FFFFFF?text=Rich+Media+%E2%80%94+Social+Embeds"
-alt="Social Media Embed"
-width="100%"
-/>
-
-</p>
-
----
-
-## Spotify
-
-Spotify content can be integrated into articles using `react-spotify-embed`.
-
-This makes it possible to include music and audio content without sending readers away from the article.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x850/172554/FFFFFF?text=Rich+Media+%E2%80%94+Spotify"
-alt="Spotify Embed"
-width="100%"
-/>
-
-</p>
-
----
 
 ## Video
 
-The project includes video infrastructure through `@videojs/react`.
-
-This provides a foundation for incorporating video into content-driven experiences.
+Bring video directly into the reading experience.
 
 <p align="center">
-
-<img
-src="https://placehold.co/1600x850/1E293B/FFFFFF?text=Rich+Media+%E2%80%94+Video"
-alt="Video Content"
-width="100%"
-/>
-
+  <img
+    src="https://placehold.co/1600x800/171717/777777/png?text=Video+Integration"
+    alt="Video integration"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Blog Architecture
+# Motion with purpose
 
-The application uses dynamic routing for individual blog articles.
+Motion is part of the experience—but it should never compete with the content.
 
-```text
-/blogs/[slug]
-```
-
-This gives each article a dedicated URL while maintaining a scalable publishing structure.
-
-The architecture allows the platform to grow as new content is added.
+The platform uses modern animation and scrolling technologies to create a more natural and expressive interface.
 
 <p align="center">
+  <img
+    src="https://placehold.co/1600x900/0F0F0F/777777/png?text=06+%E2%80%94+Motion+and+Interaction"
+    alt="Motion and interaction"
+    width="100%"
+  />
+</p>
 
-<img
-src="https://placehold.co/1600x900/0F172A/FFFFFF?text=Blog+Architecture"
-alt="Blog Architecture"
-width="100%"
-/>
+The motion system is built around technologies including:
 
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=blue" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-111111?style=flat-square" alt="Lenis" />
+</p>
+
+These tools support:
+
+* Smooth transitions
+* Interactive feedback
+* Scroll-based motion
+* Advanced animation sequences
+* Expressive visual details
+
+The goal is not to animate everything.
+
+The goal is to make interaction feel better.
+
+---
+
+# Built to be discovered
+
+Great writing should not disappear into the internet.
+
+The platform includes infrastructure for making published content easier to discover and follow.
+
+### Search engines
+
+* Sitemap generation
+* Robots configuration
+
+### Readers
+
+* RSS feed support
+
+<p align="center">
+  <img
+    src="https://placehold.co/1600x750/121212/777777/png?text=07+%E2%80%94+SEO+and+Distribution"
+    alt="SEO and distribution"
+    width="100%"
+  />
 </p>
 
 ---
 
-# Interactive Experiences
+# Technology
 
-Beyond publishing and reading, the project also explores experimental frontend interaction.
-
-The component architecture contains reusable visual experiences designed around modern animation and interaction techniques.
-
-Examples include:
-
-* Cover reveal effects
-* Liquid interactions
-* Coin spinning
-* Perspective card effects
-* Fanned deck layouts
-* Text along paths
-* Animated interactive cards
-* Motion-driven visual components
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x900/09090B/FFFFFF?text=Interactive+Experiences"
-alt="Interactive Experiences"
-width="100%"
-/>
-
-</p>
-
----
-
-# Motion and Animation
-
-The project uses multiple technologies for different animation requirements.
-
-## Framer Motion
-
-Used for React-oriented transitions and interactive component animation.
-
-## GSAP
-
-Used for more advanced animation sequences and timeline-driven interactions.
-
-## Lenis
-
-Provides smooth scrolling for a more refined navigation experience.
-
-## Rough Notation
-
-Used for expressive annotation effects and visual emphasis.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x900/172554/FFFFFF?text=Motion+and+Animation"
-alt="Motion and Animation"
-width="100%"
-/>
-
-</p>
-
----
-
-# SEO and Content Distribution
-
-A publishing platform needs to be discoverable.
-
-The project includes infrastructure for content discovery and distribution.
-
-## Sitemap
-
-The application includes sitemap generation for search engines.
-
-## Robots
-
-Crawler behavior is configured through the application's robots configuration.
-
-## RSS
-
-RSS infrastructure allows content to be distributed to compatible feed readers and aggregators.
-
-<p align="center">
-
-<img
-src="https://placehold.co/1600x800/111827/FFFFFF?text=SEO+and+Content+Distribution"
-alt="SEO and Content Distribution"
-width="100%"
-/>
-
-</p>
-
----
-
-# Technology Stack
+The project is built with a modern web stack.
 
 ## Core
 
-| Technology     | Purpose               |
-| -------------- | --------------------- |
-| Next.js 16     | Application framework |
-| React 19       | User interface        |
-| TypeScript     | Type safety           |
-| Tailwind CSS 4 | Styling               |
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+</p>
 
-## UI
+| Technology   | Purpose               |
+| ------------ | --------------------- |
+| Next.js      | Application framework |
+| React        | User interface        |
+| TypeScript   | Type safety           |
+| Tailwind CSS | Styling               |
 
-| Technology   | Purpose                      |
-| ------------ | ---------------------------- |
-| shadcn/ui    | Component architecture       |
-| Radix UI     | Accessible primitives        |
-| Base UI      | UI primitives                |
-| Floating UI  | Floating element positioning |
-| Lucide React | Icons                        |
-| Iconify      | Additional icon support      |
+## Interface
 
-## Animation
+* shadcn/ui
+* Radix UI
+* Base UI
+* Floating UI
+* Lucide React
+* Iconify
 
-| Technology     | Purpose            |
-| -------------- | ------------------ |
-| Framer Motion  | React animation    |
-| GSAP           | Advanced animation |
-| @gsap/react    | React integration  |
-| Motion         | Motion utilities   |
-| Lenis          | Smooth scrolling   |
-| Rough Notation | Text annotations   |
+## Motion
+
+* Framer Motion
+* GSAP
+* Motion
+* Lenis
+* Rough Notation
 
 ## Media
 
-| Technology          | Purpose            |
-| ------------------- | ------------------ |
-| react-tweet         | Social post embeds |
-| react-spotify-embed | Spotify embeds     |
-| @videojs/react      | Video support      |
+* `react-tweet`
+* `react-spotify-embed`
+* `@videojs/react`
 
 ---
 
-# Project Architecture
-
-```text
-blogs.bismay/
-│
-├── app/
-│   ├── about/
-│   ├── admin/
-│   ├── api/
-│   ├── blogs/
-│   ├── categories/
-│   ├── series/
-│   ├── settings/
-│   ├── rss.xml/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   ├── sitemap.ts
-│   └── robots.ts
-│
-├── articles/
-│
-├── components/
-│   ├── animate-ui/
-│   ├── blog/
-│   ├── motion/
-│   ├── pixel-perfect/
-│   ├── providers/
-│   ├── settings/
-│   └── ui/
-│
-├── lib/
-├── public/
-│
-├── package.json
-├── next.config.ts
-├── tsconfig.json
-└── README.md
-```
-
-The architecture separates application routing, publishing functionality, reusable components, reader settings, visual experiments, and shared utilities.
-
----
-
-# Getting Started
+# Getting started
 
 ## Requirements
 
-Install:
-
-* Node.js
-* npm
-
-Verify your installation:
+Make sure you have **Node.js** and **npm** installed.
 
 ```bash
 node --version
 npm --version
 ```
 
----
-
-## Clone the repository
+## Clone
 
 ```bash
 git clone https://github.com/Bismay-exe/blogs.bismay.git
+```
+
+```bash
 cd blogs.bismay
 ```
 
----
-
-## Install dependencies
+## Install
 
 ```bash
 npm install
 ```
 
----
-
-## Start the development server
+## Run
 
 ```bash
 npm run dev
@@ -1001,144 +577,88 @@ http://localhost:3000
 
 ---
 
-# Available Commands
+# Commands
 
-### Development
+| Command              | Description               |
+| -------------------- | ------------------------- |
+| `npm run dev`        | Start development         |
+| `npm run build`      | Create a production build |
+| `npm run start`      | Run the production build  |
+| `npm run lint`       | Run linting               |
+| `npm run type-check` | Check TypeScript types    |
 
-```bash
-npm run dev
+---
+
+# Project structure
+
+The project is organized around publishing and application functionality.
+
+```text
+blogs.bismay/
+│
+├── app/
+│   ├── blogs/          # Published content
+│   ├── categories/     # Content discovery
+│   ├── series/         # Connected articles
+│   ├── admin/          # Publishing management
+│   ├── api/            # Application endpoints
+│   ├── rss.xml/        # RSS feed
+│   ├── robots.ts
+│   └── sitemap.ts
+│
+├── articles/
+│   ├── format/
+│   └── series/
+│
+├── components/
+├── lib/
+└── public/
 ```
 
-Starts the application in development mode.
+---
 
-### Production Build
+# Contributing
 
-```bash
-npm run build
-```
+Ideas, improvements, and contributions are welcome.
 
-Creates an optimized production build.
-
-### Production Server
+1. Fork the repository.
+2. Create a branch.
 
 ```bash
-npm run start
+git checkout -b feature/my-feature
 ```
 
-Runs the production application.
-
-### Linting
+3. Make your changes.
+4. Run the checks.
 
 ```bash
 npm run lint
-```
-
-Runs ESLint checks.
-
-### Type Checking
-
-```bash
 npm run type-check
 ```
 
-Runs TypeScript validation.
+5. Commit and push your work.
+6. Open a pull request.
 
 ---
 
-# Screenshot Roadmap
-
-The README is designed to become a visual product walkthrough.
-
-The placeholder screenshots should eventually be replaced with real captures from:
-
-```text
-public/screenshots/
-```
-
-Recommended screenshots:
-
-```text
-home.png
-blog-list.png
-article.png
-
-markdown-editor.png
-markdown-headings.png
-markdown-bold.png
-markdown-italic.png
-markdown-strikethrough.png
-markdown-lists.png
-markdown-task-lists.png
-markdown-blockquotes.png
-markdown-inline-code.png
-markdown-code-blocks.png
-markdown-links.png
-markdown-images.png
-markdown-tables.png
-
-reader-overview.png
-reader-settings.png
-reader-fonts.png
-reader-text-size.png
-reader-appearance.png
-reader-layout.png
-
-twitter-embed.png
-spotify-embed.png
-video.png
-
-interactive-components.png
-motion.png
-```
-
-Once added, the placeholder URLs can be replaced with local paths such as:
-
-```markdown
-![Markdown Editor](./public/screenshots/markdown-editor.png)
-```
-
----
-
-# Deployment
-
-The project is deployed with Vercel.
-
-**Live Website**
-
-https://blogs-bismay.vercel.app
-
----
-
-# Project Status
-
-🚧 **Actively developed**
-
-Blogs by Bismay continues to evolve as a personal publishing platform and a space for experimenting with modern frontend development.
-
-The project focuses on improving:
-
-* The writing experience
-* Markdown authoring
-* Reader customization
-* Typography and readability
-* Rich media integration
-* Interactive components
-* Motion and visual storytelling
-
----
-
-# Author
+# Contact
 
 **Bismay**
 
-GitHub: https://github.com/Bismay-exe
-
-Website: https://blogs-bismay.vercel.app
+[GitHub](https://github.com/Bismay-exe) · [Website](https://blogs-bismay.vercel.app/)
 
 ---
 
-<div align="center">
+# License
 
-Built with **Next.js**, **React**, **TypeScript**, and a focus on creating better experiences for writing and reading on the web.
+No license has currently been specified for this repository.
 
-</div>
+---
+
+<p align="center">
+  <strong>Built for ideas worth writing about.</strong>
+</p>
+
+<p align="center">
+  <a href="#blogs-by-bismay">↑ Back to the top</a>
+</p>
