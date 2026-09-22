@@ -1,243 +1,218 @@
 # NoBadFonts CLI
 
-### The typeface you want. The terminal you love.
+### Good fonts. No friction. Just ship.
 
-[![npm version](https://img.shields.io/npm/v/nobadfonts?color=CB9EFF\&label=npm)](https://www.npmjs.com/package/nobadfonts)
-[![npm downloads](https://img.shields.io/npm/dm/nobadfonts?color=CB9EFF)](https://www.npmjs.com/package/nobadfonts)
-[![License](https://img.shields.io/npm/l/nobadfonts)](LICENSE)
+[![npm version](https://img.shields.io/npm/v/nobadfonts?style=flat-square\&color=white\&label=npm)](https://www.npmjs.com/package/nobadfonts)
+[![npm downloads](https://img.shields.io/npm/dm/nobadfonts?style=flat-square\&color=white\&label=downloads)](https://www.npmjs.com/package/nobadfonts)
+[![License](https://img.shields.io/npm/l/nobadfonts?style=flat-square\&color=white)](./LICENSE)
 
-**Discover, install, and download fonts from [NoBadFonts](https://nobadfonts.in) — straight from your terminal.**
+**Find it. Pull it. Build with it.**
 
-NoBadFonts CLI makes working with typefaces effortless. Add fonts to your project, download individual variants, explore font metadata, or search the catalog — all without leaving your workflow.
+NoBadFonts CLI brings the NoBadFonts font catalog straight to your terminal. Search for typefaces, inspect their details, and bring the ones you love into your project — without the tab-hopping.
 
 ```bash
-npx nobadfonts add offbit
+npx nobadfonts add <font>
 ```
 
-No hunting through websites. No manually managing font files. Just good type, right where you need it.
+No font-hunting rabbit holes. Just type.
 
 ---
 
-## ✦ Features
+## ✳ The type toolkit
 
-* **One-command font installation** — Add fonts to your project with a single command.
-* **Selective variants** — Install or download only the font weights and styles you need.
-* **Interactive selection** — Choose variants through an interactive terminal prompt.
-* **Automatic CSS generation** — Generate CSS when adding fonts to your project.
-* **Direct font downloads** — Download font files without the project integration workflow.
-* **Font information** — Inspect available variants and font metadata.
-* **Catalog search** — Find typefaces by keyword.
-* **Global CLI support** — Install once and use the `nobadfonts` command across projects.
+| Command    | What it does                               |
+| ---------- | ------------------------------------------ |
+| `add`      | Bring a font into your project             |
+| `download` | Get font files without project integration |
+| `select`   | Interactively choose font variants         |
+| `search`   | Find fonts by keyword                      |
+| `info`     | Inspect a font's details                   |
+| `list`     | Explore the catalog                        |
 
----
+## ⚡ Get started
 
-## 🚀 Quick Start
-
-### Option 1: Run instantly with npx
-
-No global installation required. Run the CLI directly:
+No global install. No ceremony.
 
 ```bash
-npx nobadfonts add offbit
+npx nobadfonts add <font>
 ```
 
-This adds Offbit to your project using the default installation behavior.
-
-### Option 2: Install globally
-
-If you use NoBadFonts CLI regularly, install it globally:
+Want the CLI available everywhere?
 
 ```bash
 npm install -g nobadfonts
 ```
 
-Then run it from any project directory:
+Then run it directly:
 
 ```bash
-nobadfonts add offbit
+nobadfonts add <font>
 ```
 
-That's it. You're ready to bring better typography into your projects.
+## 🎛 Your font. Your weights.
 
----
+Need just one weight? Or a specific combination?
 
-## 📦 Commands
+Choose the variants your project actually needs.
 
-### Add a font
-
-Add a font to your project. By default, all available variants are included.
+**Add a single variant**
 
 ```bash
-npx nobadfonts add offbit
+npx nobadfonts add <font> --variant bold
 ```
 
-Use `add` when you want to integrate a font into your project, including its generated CSS.
-
-### Download a font
-
-Download font files without the project integration workflow.
+**Download a single variant**
 
 ```bash
-npx nobadfonts download offbit
+npx nobadfonts download <font> --variant regular
 ```
 
-By default, all available variants are downloaded.
-
-### Add or download specific variants
-
-Don't need every weight or style? Select only the variants you want.
-
-**Using `--variant`:**
+**Pick multiple variants**
 
 ```bash
-npx nobadfonts add offbit --variant pixelbold
+npx nobadfonts add <font> -v regular -v bold
 ```
+
+**Use a comma-separated list**
 
 ```bash
-npx nobadfonts download offbit --variant pixelbold
+npx nobadfonts download <font> --variants regular,bold,italic
 ```
 
-**Using the `-v` shorthand:**
+**Not sure which variants are available?**
 
 ```bash
-npx nobadfonts add offbit -v pixelbold -v extradot-pixel
+npx nobadfonts add <font> --select
 ```
+
+Interactive selection lets you choose from the variants available for that font.
+
+> No variant flags? The CLI uses all available variants by default.
+
+## 🔎 Find your next typeface
+
+Search the catalog by keyword:
 
 ```bash
-npx nobadfonts download offbit -v pixelbold -v extradot-pixel
+npx nobadfonts search <keyword>
 ```
 
-**Using comma-separated variants:**
-
-```bash
-npx nobadfonts add offbit --variants pixelbold,extradot-pixel
-```
-
-```bash
-npx nobadfonts download offbit --variants pixelbold,extradot-pixel
-```
-
-All three formats allow you to specify the variants you need instead of downloading every available variant.
-
-### Interactive variant selection
-
-Not sure which variants are available? Let the CLI guide you.
-
-```bash
-npx nobadfonts add offbit --select
-```
-
-Or download selected variants:
-
-```bash
-npx nobadfonts download offbit --select
-```
-
-The interactive terminal prompt lets you choose from the font's available variants.
-
----
-
-## 🔍 Explore the catalog
-
-### Get font information
-
-Inspect a font and its available metadata:
-
-```bash
-npx nobadfonts info offbit
-```
-
-### List fonts
-
-Browse fonts available through the CLI:
+Explore the catalog:
 
 ```bash
 npx nobadfonts list
 ```
 
-### Search fonts
-
-Search the NoBadFonts catalog using a keyword:
+Found something interesting? Get the details:
 
 ```bash
-npx nobadfonts search display
+npx nobadfonts info <font>
 ```
 
-Try searching for styles, classifications, or other keywords to discover typefaces for your next project.
-
----
-
-## 🧰 Command Reference
-
-| Command                                   | Description                                |
-| ----------------------------------------- | ------------------------------------------ |
-| `nobadfonts add <font>`                   | Add all available variants to your project |
-| `nobadfonts download <font>`              | Download all available variants            |
-| `nobadfonts add <font> -v <variant>`      | Add a specific variant                     |
-| `nobadfonts download <font> -v <variant>` | Download a specific variant                |
-| `nobadfonts add <font> --select`          | Interactively select variants to add       |
-| `nobadfonts download <font> --select`     | Interactively select variants to download  |
-| `nobadfonts info <font>`                  | View font information                      |
-| `nobadfonts list`                         | List available fonts                       |
-| `nobadfonts search <keyword>`             | Search the font catalog                    |
-
-**Variant options**
-
-| Option               | Description                        |
-| -------------------- | ---------------------------------- |
-| `--variant <name>`   | Specify a variant (repeatable)     |
-| `-v <name>`          | Shorthand for `--variant`          |
-| `--variants <names>` | Specify comma-separated variants   |
-| `--select`           | Open interactive variant selection |
-
-Replace `<font>` with a font slug, such as `offbit`, and `<variant>` with an available variant slug.
-
----
-
-## 💡 Example Workflow
-
-Imagine you're building a project and want to use Offbit, but only need two variants.
+## 🧰 The command shelf
 
 ```bash
-# Add only the variants you need
-npx nobadfonts add offbit -v pixelbold -v extradot-pixel
+# Add a font to your project
+npx nobadfonts add <font>
+
+# Download font files
+npx nobadfonts download <font>
+
+# Add selected variants
+npx nobadfonts add <font> -v regular -v bold
+
+# Download selected variants
+npx nobadfonts download <font> -v regular -v bold
+
+# Open the interactive variant selector
+npx nobadfonts add <font> --select
+
+# Inspect font details
+npx nobadfonts info <font>
+
+# Browse the catalog
+npx nobadfonts list
+
+# Search for type
+npx nobadfonts search <keyword>
 ```
 
-Need the font files without adding them to your project?
+## 🎨 Every font comes with its own CSS. Automatically.
+
+Whether you `add` a font or simply `download` it, NoBadFonts CLI takes care of the CSS for you.
+
+**Font files downloaded. `fonts.css` generated. No manual `@font-face` setup.**
 
 ```bash
-npx nobadfonts download offbit -v pixelbold
+# Add a font to your project
+npx nobadfonts add <font>
+
+# Or just download it
+npx nobadfonts download <font>
 ```
 
-Want to explore before installing?
+Both commands automatically generate or update `fonts.css` with the selected font variants — ready for standard CSS and Tailwind CSS workflows.
 
-```bash
-npx nobadfonts search pixel
-npx nobadfonts info offbit
+### 1. One import. That's it.
+
+Import the generated stylesheet into your main CSS file:
+
+```css
+@import "./fonts.css";
 ```
 
-From discovery to implementation, NoBadFonts CLI keeps typography in your development workflow.
+Or link it directly in your HTML:
+
+```html
+<link rel="stylesheet" href="./fonts.css" />
+```
+
+### 2. Your fonts. Your styles.
+
+**Standard CSS**
+
+```css
+.heading {
+  font-family: "YourFont", sans-serif;
+}
+```
+
+**Tailwind CSS**
+
+```html
+<h1 class="font-your-font">
+  Make something beautiful.
+</h1>
+```
+
+Your generated `fonts.css` keeps the font declarations in one place, so you can use your downloaded fonts throughout your project.
+
+### No repetitive setup. No manual font-face declarations.
+
+Just pick your type. NoBadFonts handles the rest.
 
 ---
 
-## 🌐 Discover more fonts
+## ⌘ Built for the terminal
 
-Explore the full catalog, preview typefaces, and find your next favorite font:
+Whether you're prototyping a landing page, polishing a portfolio, or building your next big thing — NoBadFonts CLI keeps your type workflow close to your code.
 
-**[nobadfonts.in/fonts](https://nobadfonts.in/fonts)**
-
----
-
-## 📄 License
-
-MIT © NoBadFonts
-
-See the [LICENSE](LICENSE) file for details.
+Less hunting. More making.
 
 ---
 
-<p align="center">
-  Built for developers who give a damn about typography.
-  <br />
-  <strong><a href="https://nobadfonts.in">NoBadFonts</a></strong>
-</p>
+## NoBadFonts
+
+**The internet has enough bad fonts.**
+
+Discover your next typeface at [nobadfonts.in](https://nobadfonts.in).
+
+---
+
+<div align="center">
+
+**NoBadFonts CLI** · Good fonts. No friction. Just ship.
+
+Made by [Bismay](https://github.com/Bismay-exe) with 🖤
+
+</div>
